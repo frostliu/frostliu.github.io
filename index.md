@@ -34,6 +34,7 @@
 [See more past news.](/pastnews)
 
 ---
+[Top](#Top)
 ## **Professional Services:**  
 
 ### **Membership:** 
@@ -68,6 +69,7 @@
 
 
 ---
+[Top](#Top)
 ## **Selected Publications:**  
 1. G. Feng, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," IEEE Geoscience and Remote Sensing Letters, 10.1109/LGRS.2018.2881834.
 1. X. Ma, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", IEEE Trans. on Geoscience and Remote Sensing, 10.1109/TGRS.2018.2867570.
@@ -101,6 +103,7 @@
 
 
 ---
+[Top](#Top)
 ## **指导学生**
 
 先后指导硕士研究生18名（协助指导3名、非全日制2名），其中获校“学术十杰”1人次，获国家奖学金6人次，中国石油大学优秀硕士论文3人次，山东省优秀研究生毕业生2人次，中国石油大学优秀研究生毕业生1人次；指导本科生毕业论文、科技创新活动数次。
@@ -202,6 +205,7 @@
 
 
 ---
+[Top](#Top)
 # **欢迎志同道合的优秀同学加入课题组**
 
 我的研究领方向主要为模式识别，机器学习，计算机视觉。近期研究兴趣主要为多视角学习、稀疏学习、流形学习等机器学习理论在多媒体信息处理、智能人机交互、情感计算、行为分析等领域中的应用，包括图像分类、语音识别、社交媒体、人机接口、表情分析、动作识别、群体行为监控以及相关智能信息处理技术。
