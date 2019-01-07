@@ -27,7 +27,7 @@
 * (2018-04-07) [祝贺马学琦获2018年学校“十大学生标兵”提名奖！](http://ygb.upc.edu.cn/2018/0402/c3793a142413/page.htm)
 * (2018-04-03) 祝贺马学琦入选2018年优秀硕士法国暑期学校项目！
 * (2018-02-25) IEEE SMC2018 special session on Deep Learning for Intelligent Visual Data Understanding is accepted!(**[Call for papers](http://www.smc2018.org/approved-special-sessions/c20-deep-learning-for-intelligent-visual-data-understanding/)**)
-
+[See more past news.](/pastnews)
 
 ---
 ## **Professional Services:**  
