@@ -1,4 +1,6 @@
-## **Code&Dataset**  
+## **Codes&Dataset**  
+
+---
 ## JAFFE Gabor Features  
 
 JAFFE database contains 213 images of 7 facial expressions (6 basic facial expressions + 1 neutral) posed by 10 Japanese female models. Each image has been rated on 6 emotion adjectives by 60 Japanese subjects. The original dataset can be found here.  
@@ -13,11 +15,11 @@ Gabor datafile is a .mat file that can be easily loaded in MatLab, and it contai
 * **gab1：** The Gabor feature of the extracted points which each row presents the Gabor feature of one expression image.(Amplitude of Gabor feature is used here. five scales and eight orientations of Gabor nuclears are used)
 * **gab2：** The Gabor feature of the extracted points after nomalizing each vector.(Amplitude of Gabor feature is used here)  
 
----
+
 Please cite the following papers when using the processed data sets. We appreciate it very much.  
 
 * Weifeng Liu, Caifeng Song, Yanjiang Wang, Facial Expression Recognition Based on Discriminative Dictionary Learning, ICPR2012, Tsukuba Science City, Japan, 2012, pp. 1839-1842.  
 * Weifeng Liu, Caifeng Song, Yanjiang Wang, Lu Jia, Facial Expression Recognition Based on Gabor Features and Sparse Representation, ICARCV2012, Guangzhou, China, 2012, pp.1402-1406.  
 
----
+
 Download: [Gabor_JAFFE.rar](https://sites.google.com/site/weifengliusite/code-dataset/Gabor_JAFFE.rar?attredirects=0&d=1)
