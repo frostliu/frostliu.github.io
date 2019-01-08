@@ -7,8 +7,9 @@
 
 **刘伟锋**，博士，教授，博士生导师，副院长，IEEE高级会员，IEEE SMC协会感知计算技术委员会主席，ACM会员，ACM SIGMM中国分会会员，CCF会员，CCF计算机视觉专委会委员。2002年6月毕业于中国科学技术大学自动化专业，获自动控制与工商管理双学士学位，2007年6月毕业于中国科学技术大学模式识别与智能系统专业，获工学博士学位，2009年12月晋升副教授，2011年9月至2012年9月在澳大利亚悉尼科技大学做访问学者，2016年12月晋升教授，2017年6月至2017年9月在澳门大学做访问博士后。主要研究方向为多视角学习、稀疏学习、流形学习等机器学习理论在多媒体信息处理、智能人机交互、情感计算、行为分析等领域中的应用。目前主持在研国家自然科学基金面上项目1项，主持完成国家自然科学基金青年基金1项、山东省自然科学基金青年基金1项。近年发表学术论文近百篇，其中6篇论文入选ESI高被引论文，3篇入选ESI热点论文，申请国家发明专利10项（授权4项）。担任SCI期刊《Neural Processing Letters》Associate editor，Signal Processing Guest editor，IET Computer Vision Guest editor，Neurocomputing Guest editor，Remote Sensing Guest editor，数十种领域内重要期刊审稿人，近年来作为分会（共同）主席、宣传主席等组织国际学术会议分会近十次，国际学术会议技术委员会成员或审稿人数十余次。
 
+[↑Top](#Top)
 ---  
-<span id = "News"> </span> [Top](#Top)
+<span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](/for-students)
 * (2018-12-26) 祝贺杨兴浩获校优秀硕士学位论文！
@@ -35,8 +36,9 @@
 
 [See more past news.](/pastnews)
 
+[↑Top](#Top)
 ---
-<span id = "Services"> </span>[Top](#Top)
+<span id = "Services"> </span>
 ## **Professional Services:**  
 
 ### **Membership:** 
@@ -69,9 +71,9 @@
 * IEEE SMC special session co-chair (Machine Learning for Vision and Healthcare, 2017)
 * IEEE SMC special session co-chair (Deep Learning for Intelligent Visual Data Understanding, 2018)
 
-
+[↑Top](#Top)
 ---
-<span id = "Publications"> </span>[Top](#Top)
+<span id = "Publications"> </span>
 ## **Selected Publications:**  
 1. G. Feng, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," IEEE Geoscience and Remote Sensing Letters, 10.1109/LGRS.2018.2881834.
 1. X. Ma, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", IEEE Trans. on Geoscience and Remote Sensing, 10.1109/TGRS.2018.2867570.
@@ -104,8 +106,9 @@
 [*See Weifeng Liu’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=XHc6D58AAAAJ&hl=en)  
 
 
+[↑Top](#Top)
 ---
-<span id = "Students"> </span>[Top](#Top)
+<span id = "Students"> </span>
 ## **指导学生**
 
 先后指导硕士研究生18名（协助指导3名、非全日制2名），其中获校“学术十杰”1人次，获国家奖学金6人次，中国石油大学优秀硕士论文3人次，山东省优秀研究生毕业生2人次，中国石油大学优秀研究生毕业生1人次；指导本科生毕业论文、科技创新活动数次。
@@ -206,8 +209,9 @@
 * 2009年，校级大学生创新性实验计划项目，获批项目“新型车载疲劳检测仪研制”（相关论文发表于ICSP2010），贾璐  
 
 
+[↑Top](#Top)
 ---
-<span id = "forStudents"> </span>[Top](#Top)
+<span id = "forStudents"> </span>
 # **欢迎志同道合的优秀同学加入课题组**
 
 我的研究领方向主要为模式识别，机器学习，计算机视觉。近期研究兴趣主要为多视角学习、稀疏学习、流形学习等机器学习理论在多媒体信息处理、智能人机交互、情感计算、行为分析等领域中的应用，包括图像分类、语音识别、社交媒体、人机接口、表情分析、动作识别、群体行为监控以及相关智能信息处理技术。
