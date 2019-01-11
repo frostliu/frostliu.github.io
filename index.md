@@ -278,9 +278,7 @@
 5. 一定的助研费用及科研奖励；
 6. 优秀学生有到知名公司实习及海外名校攻读博士学位的推荐机会。
 
-**在课题组实习且表现优秀的同学在招收研究生时优先考虑。**
-
-### 长期接收本科生参与科研活动及课外创作，如果你能够心无旁骛并有坚持到底的决心，欢迎跟我联系.
+**在课题组实习且表现优秀的同学在招收研究生时优先考虑。长期接收本科生参与科研活动及课外创作，如果你能够心无旁骛并有坚持到底的决心，欢迎跟我联系。**
 
 ## Contact Details
 * **Weifeng Liu 刘伟锋** Ph.D., Professor
@@ -288,6 +286,8 @@
 * College of Information and Control Engineering, China University of Petroleum (East China)
 * Room E1211, Engineering Building E, No.66 Changjiang West Road, Huangdao District, Qingdao 266580, China
 
+
 [↑Top](#Top)
+
 ---
 [学生周汇报](/StudentsReport)
