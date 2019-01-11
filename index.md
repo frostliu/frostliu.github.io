@@ -3,19 +3,8 @@
 
 ---
 
-Weifeng Liu 刘伟锋
-
-Ph.D., Professor, Vice Dean
-
-liuwf@upc.edu.cn; wfliu@ieee.org
-
-College of Information and Control Engineering,
-
-China University of Petroleum (East China)
-
-Room E1211, Engineering Building E,
-No.66 Changjiang West Road,
-Huangdao District, Qingdao 266580, China
+**Weifeng Liu 刘伟锋**
+Ph.D., Professor
 
 ---
 
@@ -298,5 +287,10 @@ Huangdao District, Qingdao 266580, China
 
 ### 长期接收本科生参与科研活动及课外创作，如果你能够心无旁骛并有坚持到底的决心，欢迎跟我联系 [liuwf@upc.edu.cn](mailto:liuwf@upc.edu.cn).
 
+## Contact Details
+
+* liuwf@upc.edu.cn; wfliu@ieee.org
+* College of Information and Control Engineering, China University of Petroleum (East China)
+* Room E1211, Engineering Building E, No.66 Changjiang West Road, Huangdao District, Qingdao 266580, China
 ---
 [学生周汇报](/StudentsReport)
