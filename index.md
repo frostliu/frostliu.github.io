@@ -41,42 +41,6 @@
 [↑Top](#Top)
 
 ---
-<span id = "Services"> </span>
-## **Professional Services:**  
-
-### **Membership:** 
-
-* IEEE senior member, IEEE SMC Society member, [Co-chair of IEEE SMC TC on Cognitive Computing](http://www.ieeesmc.org/technical-activities/human-machine-systems/cognitive-computing), 
-* ACM member, ACM SIGMM member, ACM SIGMM China Chapter member, 
-* APNNS member, 
-* CCF member, [CCF Computer Vision Committee member](http://www.ccfcv.org/). 
-
-### **Journal Editorial Board:** 
-
-* Associate editor for [Neural Processing Letters](http://www.springer.com/computer/ai/journal/11063?detailsPage=editorialBoard), 
-* Lead guest editor for Signal Processing (SI: Big Data Meets Multimedia Analytics)
-* Lead guest editor for Signal Processing (SI: Data Mining in Human Activity Analysis)
-* Lead guest editor for Remote Sensing (SI: Advances in Representation Learning for Remote Sensing Analytics)
-* Lead guest editor for Journal of Electrical and Computer Engineering (SI: Advanced Data Representation and Learning in Multimedia Data Analysis)  
-* Guest editor for Neurocomputing (SI: Advances in Data Representation and Learning for Pattern Analysis)
-* Guest editor for IET Computer Vision (SI: Visual Domain Adaptation and Generalization)
-
-### **Conference/Session (Co-)Chair:** 
-
-* ICCH special session chair (Machine Learning for Health Informatics, 2012)
-* ICIMCS registration chair (2017)
-* ICMLA publicity co-chair (2012)
-* IEEE ICDM workshop co-chair (Data Mining in Human Activity Analysis, 2016)
-* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2013)
-* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2014)
-* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2015)
-* IEEE SMC special session co-chair (Matrix Analysis and Feature Learning for Multimedia Understanding, 2016)
-* IEEE SMC special session co-chair (Machine Learning for Vision and Healthcare, 2017)
-* IEEE SMC special session co-chair (Deep Learning for Intelligent Visual Data Understanding, 2018)
-
-[↑Top](#Top)
-
----
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
 1. G. Feng, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," IEEE Geoscience and Remote Sensing Letters, 10.1109/LGRS.2018.2881834.
@@ -109,6 +73,43 @@
 
 [*See Weifeng Liu’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=XHc6D58AAAAJ&hl=en)  
 
+
+[↑Top](#Top)
+
+---
+
+<span id = "Services"> </span>
+## **Professional Services:**  
+
+### **Membership:** 
+
+* IEEE senior member, IEEE SMC Society member, [Co-chair of IEEE SMC TC on Cognitive Computing](http://www.ieeesmc.org/technical-activities/human-machine-systems/cognitive-computing), 
+* ACM member, ACM SIGMM member, ACM SIGMM China Chapter member, 
+* APNNS member, 
+* CCF member, [CCF Computer Vision Committee member](http://www.ccfcv.org/). 
+
+### **Journal Editorial Board:** 
+
+* Associate editor for [Neural Processing Letters](http://www.springer.com/computer/ai/journal/11063?detailsPage=editorialBoard), 
+* Lead guest editor for Signal Processing (SI: Big Data Meets Multimedia Analytics)
+* Lead guest editor for Signal Processing (SI: Data Mining in Human Activity Analysis)
+* Lead guest editor for Remote Sensing (SI: Advances in Representation Learning for Remote Sensing Analytics)
+* Lead guest editor for Journal of Electrical and Computer Engineering (SI: Advanced Data Representation and Learning in Multimedia Data Analysis)  
+* Guest editor for Neurocomputing (SI: Advances in Data Representation and Learning for Pattern Analysis)
+* Guest editor for IET Computer Vision (SI: Visual Domain Adaptation and Generalization)
+
+### **Conference/Session (Co-)Chair:** 
+
+* ICCH special session chair (Machine Learning for Health Informatics, 2012)
+* ICIMCS registration chair (2017)
+* ICMLA publicity co-chair (2012)
+* IEEE ICDM workshop co-chair (Data Mining in Human Activity Analysis, 2016)
+* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2013)
+* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2014)
+* IEEE SMC special session co-chair (Matrix and Tensor Analysis for Big Vision, 2015)
+* IEEE SMC special session co-chair (Matrix Analysis and Feature Learning for Multimedia Understanding, 2016)
+* IEEE SMC special session co-chair (Machine Learning for Vision and Healthcare, 2017)
+* IEEE SMC special session co-chair (Deep Learning for Intelligent Visual Data Understanding, 2018)
 
 [↑Top](#Top)
 
@@ -279,6 +280,8 @@
 6. 优秀学生有到知名公司实习及海外名校攻读博士学位的推荐机会。
 
 **在课题组实习且表现优秀的同学在招收研究生时优先考虑。长期接收本科生参与科研活动及课外创作，如果你能够心无旁骛并有坚持到底的决心，欢迎跟我联系。**
+
+---
 
 ## Contact Details
 * **Weifeng Liu 刘伟锋** Ph.D., Professor
