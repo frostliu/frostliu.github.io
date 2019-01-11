@@ -284,7 +284,7 @@
 ---
 
 ## Contact Details
-![img](/images/pic.png = 100)
+![img -w=150](/images/pic.png)
 
 
 
