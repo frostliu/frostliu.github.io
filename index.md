@@ -285,10 +285,7 @@
 
 ## Contact Details
 ![img](/images/pic.png)
-* **Weifeng Liu 刘伟锋** Ph.D., Professor
-* liuwf@upc.edu.cn; wfliu@ieee.org
-* College of Information and Control Engineering, China University of Petroleum (East China)
-* Room E1211, Engineering Building E, No.66 Changjiang West Road, Huangdao District, Qingdao 266580, China
+
 
 
 [↑Top](#Top)
