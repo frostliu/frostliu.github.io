@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-01-30) Our paper "Hessian regularized distance metric learning for people re-identification" is accepted by Neural Processing Letters, con~ Guanhua!
 * (2018-12-26) 祝贺杨兴浩获校优秀硕士学位论文！
 * (2018-12-07) [祝贺马学琦获评校第十三届研究生学术十杰！](http://news.upc.edu.cn/info/1432/89379.htm)
 * (2018-11-21) 祝贺陈兴华获山东省优秀学士学位论文！
