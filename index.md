@@ -44,6 +44,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. G. Feng, W. Liu, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, Accepted.
 1. Q. Wang, J. Yu, T. Liu, and W. Liu, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 10.1049/iet-cvi.2019.0018.(**Editorial**)
 1. G. Feng, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 10.1109/LGRS.2018.2881834.
 1. X. Ma, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 10.1109/TGRS.2018.2867570.
