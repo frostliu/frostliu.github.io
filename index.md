@@ -43,7 +43,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. Q. Wang, J. Yu, T. Liu, and W. Liu, " Visual Domain Adaptation and Generalisation," *IET Computer Vision*, 10.1049/iet-cvi.2019.0018.(**Editorial**)
+1. Q. Wang, J. Yu, T. Liu, and W. Liu, " Visual Domain Adaptation and Generalisation," *IET Computer Vision*, 10.1049/iet-cvi.2019.0018.(<span style="color:red;">Editorial</span>)
 1. G. Feng, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," *IEEE Geoscience and Remote Sensing Letters*, 10.1109/LGRS.2018.2881834.
 1. X. Ma, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", *IEEE Trans. on Geoscience and Remote Sensing*, 10.1109/TGRS.2018.2867570.
 1. W. Liu, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," *IEEE Trans. on Cybernetics*, 10.1109/TCYB.2018.2833843.
