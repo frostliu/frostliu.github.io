@@ -47,7 +47,7 @@
 1. G. Feng, **W. Liu**, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, 10.1007/s11063-019-10000-4.
 1. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 10.1049/iet-cvi.2019.0018.(**Editorial**)
 1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 10.1109/LGRS.2018.2881834.
-1. X. Ma, W. Liu, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 10.1109/TGRS.2018.2867570.
+1. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 10.1109/TGRS.2018.2867570.
 1. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 10.1109/TCYB.2018.2833843.
 1. X. Ma, D. Tao, and **W. Liu**, "Effective human action recognition by combining manifold regularization and pairwise constraints," ***Multimedia Tools and Applications***, 10.1007/s11042-017-5172-1.
 1. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 10.1016/j.neucom.2018.08.084.(**Editorial**)
