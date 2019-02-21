@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* CFP: [IEEE SMC 2019 special session "Deep Models for Intelligent Multimedia Understanding (**Code 78t6d**)", Mar 31 2019](http://smc2019.org/information_for_authors.html).
 * (2019-01-30) Our paper "Hessian regularized distance metric learning for people re-identification" is accepted by Neural Processing Letters, con~ Guanhua!
 * (2018-12-26) 祝贺杨兴浩获校优秀硕士学位论文！
 * (2018-12-07) [祝贺马学琦获评校第十三届研究生学术十杰！](http://news.upc.edu.cn/info/1432/89379.htm)
