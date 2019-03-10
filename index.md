@@ -15,6 +15,7 @@
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
 * CFP: [IEEE SMC 2019](http://smc2019.org/) special session ["Deep Models for Intelligent Multimedia Understanding (**Code 78t6d**)"](https://frostliu.github.io/smc2019).
+* (2019-03-10) Our paper "Ensemble p-Laplacian Regularization for Scene Image Recognition" has been accepted by Cognitive Computation, con~ Xueqi!
 * (2019-02-26) 祝贺马学琦入选山东省优秀研究生毕业生，[初选名单公示中](http://ygb.upc.edu.cn/_t235/2019/0222/c3793a190450/page.psp)！
 * (2019-01-30) Our paper "Hessian regularized distance metric learning for people re-identification" is accepted by Neural Processing Letters, con~ Guanhua!
 * (2018-12-26) 祝贺杨兴浩获校优秀硕士学位论文！
@@ -46,6 +47,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, Accepted.
 1. G. Feng, **W. Liu**, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, 10.1007/s11063-019-10000-4.
 1. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 10.1049/iet-cvi.2019.0018.(**Editorial**)
 1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 10.1109/LGRS.2018.2881834.
