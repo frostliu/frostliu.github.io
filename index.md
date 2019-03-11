@@ -47,7 +47,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, Accepted.
+1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, 10.1007/s12559-019-09637-z.
 1. G. Feng, **W. Liu**, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, 10.1007/s11063-019-10000-4.
 1. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 10.1049/iet-cvi.2019.0018.(**Editorial**)
 1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 10.1109/LGRS.2018.2881834.
