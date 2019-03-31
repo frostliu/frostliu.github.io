@@ -48,7 +48,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, Accepted.
+1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 10.1049/iet-ipr.2018.6224.
 1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, 10.1007/s12559-019-09637-z.
 1. G. Feng, **W. Liu**, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, 10.1007/s11063-019-10000-4.
 1. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 10.1049/iet-cvi.2019.0018.(**Editorial**)
