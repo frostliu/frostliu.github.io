@@ -54,7 +54,7 @@
 1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 16(5): 821-825, 2019.
 1. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 10.1109/TCYB.2018.2833843.
 1. X. Ma, D. Tao, and **W. Liu**, "Effective human action recognition by combining manifold regularization and pairwise constraints," ***Multimedia Tools and Applications***, 10.1007/s11042-017-5172-1.
-1. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 10.1016/j.neucom.2018.08.084.(**Editorial**)
+1. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 348: 1-2, 2019, 10.1016/j.neucom.2018.08.084.(**Editorial**)
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
 2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.
 2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**Editorial**)
