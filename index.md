@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-05-16) 祝贺傅司超获批2019年度研究生创新工程项目！
 * (2019-05-15) Our paper "Hessian regularized co-training for social activity recognition" has been recognized as ESI highly cited papers.
 * (2019-04-12) CFP: [IEEE SMC 2019](http://smc2019.org/) special session ["Deep Models for Intelligent Multimedia Understanding (**Code 78t6d**)"](https://frostliu.github.io/smc2019).
 * (2019-03-12) Our paper "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification" has been accepted by IET Image Processing, con~ Sichao!
@@ -31,7 +32,7 @@
 * (2018-06-28) 祝贺潘宜辰获评校级优秀本科毕业论文！
 * (2018-06-16) One paper is accepted by ICIMCS2018, con~ Sichao!
 * (2018-05-31) 祝贺杨兴浩收到UTS全奖资助攻读博士offer！
-* (2018-05-28) 祝贺冯冠华获批研究生创新工程项目！
+* (2018-05-28) 祝贺冯冠华获批2018年度研究生创新工程项目！
 * (2018-05-14) 论文"p-Laplacian Regularized Sparse Coding for Human Activity Recognition"入选ESI高被引论文、ESI热点论文！ 
 * (2018-04-24) One paper is accepted by IEEE Trans. on Cybernetics, con~ Xueqi!
 * (2018-04-20)[Call for Paper: Journal: Remote Sensing Special Issue: Advances in Representation Learning for Remote Sensing Analytics (RLRSA)
@@ -161,6 +162,7 @@
 2018. [赵贵啸#]()(硕士2018-2021) 
 
 2017. [傅司超]()(硕士2017-2020)
+        + 2019年，研究生创新工程项目，“基于图神经网络的半监督分类算法研究”（YCX2019080）；
 
 2017. [李乔楠]()(硕士2017-2020)
 
