@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-05-30) 祝贺马学琦获批CSC-墨尔本大学公派博士生项目！
 * (2019-05-16) 祝贺傅司超获批2019年度研究生创新工程项目！
 * (2019-05-15) Our paper "Hessian regularized co-training for social activity recognition" has been recognized as ESI highly cited papers.
 * (2019-04-12) CFP: [IEEE SMC 2019](http://smc2019.org/) special session ["Deep Models for Intelligent Multimedia Understanding (**Code 78t6d**)"](https://frostliu.github.io/smc2019).
