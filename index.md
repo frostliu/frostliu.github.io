@@ -13,7 +13,8 @@
 ---  
 <span id = "News"> </span> 
 ## **News**  
-* 🎈[欢迎优秀同学加盟课题组！2019级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* 🎈[欢迎优秀同学加盟课题组！2020级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-06-06) CFP: [special issue for Applied Remote Sensing：Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1&from=timeline#RepresentationLearningandBigDataAnalyticsforRemoteSensing).
 * (2019-06-05) Our paper "Dynamic Graph Convolutional Networks via Manifold Regularization" has been accepted by IJCAI-2019 workshop on "Deep Learning for Human Activity Recognition", con~ Sichao!
 * (2019-05-30) 祝贺马学琦获批CSC-墨尔本大学公派博士生项目！
 * (2019-05-16) 祝贺傅司超获批2019年度研究生创新工程项目！
