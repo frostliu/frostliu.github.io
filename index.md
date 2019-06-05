@@ -121,6 +121,7 @@
 * Lead guest editor for Journal of Electrical and Computer Engineering (SI: Advanced Data Representation and Learning in Multimedia Data Analysis)  
 * Guest editor for Neurocomputing (SI: Advances in Data Representation and Learning for Pattern Analysis)
 * Guest editor for IET Computer Vision (SI: Visual Domain Adaptation and Generalization)
+* Guest editor for Applied Remote Sensing (SI: Representation Learning and Big Data Analytics for Remote Sensing)
 
 ### **Conference/Session (Co-)Chair:** 
 
