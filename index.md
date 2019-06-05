@@ -135,6 +135,7 @@
 * IEEE SMC special session co-chair (Matrix Analysis and Feature Learning for Multimedia Understanding, 2016)
 * IEEE SMC special session co-chair (Machine Learning for Vision and Healthcare, 2017)
 * IEEE SMC special session co-chair (Deep Learning for Intelligent Visual Data Understanding, 2018)
+* IEEE SMC special session co-chair (Deep Models for Intelligent Multimedia Understanding, 2019)
 
 [↑Top](#Top)
 
