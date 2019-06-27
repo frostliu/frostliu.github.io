@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎优秀同学加盟课题组！2020级拟招收博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-06-27) Our paper entitled "Domain Adaptation with Few Labeled Source Samples by Graph Regularization" has been accepted for publication in Neural Processing Letters. Con~ Jinfeng!
 * (2019-06-06) CFP: [special issue for Applied Remote Sensing：Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1&from=timeline#RepresentationLearningandBigDataAnalyticsforRemoteSensing).
 * (2019-06-05) Our paper "Dynamic Graph Convolutional Networks via Manifold Regularization" has been accepted by IJCAI-2019 workshop on "Deep Learning for Human Activity Recognition", con~ Sichao!
 * (2019-05-30) 祝贺马学琦获批CSC-墨尔本大学公派博士生项目！
@@ -53,6 +54,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, in press.
 1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 10.1049/iet-ipr.2018.6224.
 1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, 10.1007/s12559-019-09637-z.
 1. G. Feng, **W. Liu**, D. Tao, and Y. Zhou, "Hessian regularized distance metric learning for people re-identification," ***Neural Processing Letters***, 10.1007/s11063-019-10000-4.
