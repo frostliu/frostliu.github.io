@@ -71,7 +71,7 @@
 2016. **W. Liu**, H. Liu, D.T ao, Y. Wang, K.Lu, “Manifold regularized kernel logistic regression for web image annotation”,***Neurocomputing***, 172: 3-8, 2016.
 2015. **W.Liu**, H.Liu, D.Tao, Y.Wang, K.Lu, “Multiview Hessian regularized logistic regression for action recognition”,***Signal Processing***, 110: 101-107, 2015. (**ESI Hot Papers**)
 2015. **W. Liu**, Y. Li, D. Tao, and Y. Wang, “A general framework for co-training and its applications,” ***Neurocomputing***, 167: 112-121, 2015.
-2014. **W. Liu**, Y. Li, X. Lin, D. Tao, and Y. Wang, "Hessian regularized co-training for social activity recognition," PLOS One, 9(9): e108474, 2014. (**ESI Highly Cited Papers**)
+2014. **W. Liu**, Y. Li, X. Lin, D. Tao, and Y. Wang, "Hessian regularized co-training for social activity recognition," ***PLOS One***, 9(9): e108474, 2014. (**ESI Highly Cited Papers**)
 2014. **W. Liu**, D. Tao, J. Cheng, and Y. Tang, “Multiview Hessian Discriminative Sparse Coding for Image Annotation,” ***Computer Vision and Image Understanding***, 118: 50-60, 2014. (**ESI Highly Cited Papers**)
 2013. **W. Liu** and D. Tao, “Multiview Hessian Regularization for Image Annotation,” ***IEEE Trans. on Image Processing***, 22: 2676-2687, 2013. (**ESI Hot Papers,ESI Highly Cited Papers**)
 2013. D. Tao, L. Jin, **W. Liu**, and X. Li, "Hessian Regularized Support Vector Machines for Mobile Image Annotation on the Cloud". ***IEEE Trans. on Multimedia***, 15(4): 833-844, 2013. (**ESI Highly Cited Papers**)
