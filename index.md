@@ -14,7 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！2020级拟招收模式识别与智能系统方向博士研究生1名、硕士生研究生3-4名！](#forStudents)
-* (2019-07-15) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" has been recognized as ESI Cited papers!
+* (2019-07-15) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" has been recognized as ESI Highly Cited papers!
 * (2019-07-15) Our paper entitled "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
 * (2019-06-27) Our paper entitled "Domain Adaptation with Few Labeled Source Samples by Graph Regularization" has been accepted for publication in Neural Processing Letters. Con~ Jinfeng!
 * (2019-06-06) CFP: [special issue for Applied Remote Sensing：Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1&from=timeline#RepresentationLearningandBigDataAnalyticsforRemoteSensing).
