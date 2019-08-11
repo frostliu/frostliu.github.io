@@ -33,21 +33,6 @@
 * (2018-11-14) Our paper "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition" is accepted by IEEE Geoscience and Remote Sensing Letters, con~ Guanhua!
 * (2018-10-24) 祝贺马学琦再次获得硕士研究生国家奖学金！
 * (2018-09-22) Our accepted IEEE TGRS paper ["Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition"](https://ieeexplore.ieee.org/document/8469151/) is online.
-* (2018-08-22) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" is accepted by IEEE Trans. on Geoscience and Remote Sensing (TGRS), con~ Xueqi!
-* (2018-07-16) 论文“CANONICAL CORRELATION ANALYSIS NETWORKS FOR TWO-VIEW IMAGE RECOGNITION”入选ESI高被引论文！
-* (2018-06-28) 祝贺潘宜辰获评校级优秀本科毕业论文！
-* (2018-06-16) One paper is accepted by ICIMCS2018, con~ Sichao!
-* (2018-05-31) 祝贺杨兴浩收到UTS全奖资助攻读博士offer！
-* (2018-05-28) 祝贺冯冠华获批2018年度研究生创新工程项目！
-* (2018-05-14) 论文"p-Laplacian Regularized Sparse Coding for Human Activity Recognition"入选ESI高被引论文、ESI热点论文！ 
-* (2018-04-24) One paper is accepted by IEEE Trans. on Cybernetics, con~ Xueqi!
-* (2018-04-20)[Call for Paper: Journal: Remote Sensing Special Issue: Advances in Representation Learning for Remote Sensing Analytics (RLRSA)
-](http://www.mdpi.com/journal/remotesensing/special_issues/Representation-Learning#info)
-* (2018-04-20) [祝贺杨兴浩获2018山东省研究生优秀科技创新成果奖校内选拔三等奖！](http://gs.upc.edu.cn/2018/0420/c1794a146584/page.htm)
-* (2018-04-13) [祝贺陈兴华获2018年山东省优秀学士学位论文学校推荐！](http://jwc.upc.edu.cn/2018/0413/c545a145404/page.psp)
-* (2018-04-07) [祝贺马学琦获2018年学校“十大学生标兵”提名奖！](http://ygb.upc.edu.cn/2018/0402/c3793a142413/page.htm)
-* (2018-04-03) 祝贺马学琦入选2018年优秀硕士法国暑期学校项目！
-* (2018-02-25) IEEE SMC2018 special session on Deep Learning for Intelligent Visual Data Understanding is accepted!(**[Call for papers](http://www.smc2018.org/approved-special-sessions/c20-deep-learning-for-intelligent-visual-data-understanding/)**)
 
 [See more past news.](/pastnews)
 
