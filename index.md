@@ -41,7 +41,6 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. S. Fu, **W. Liu**, Y. Zhou, and L. Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks," ***Neurocomputing***, In press.
 1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 10.1007/s11063-019-10075-z.
 1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 10.1049/iet-ipr.2018.6224.
 1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, 10.1007/s12559-019-09637-z.
@@ -50,6 +49,7 @@
 1. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 10.1109/TCYB.2018.2833843.
 1. X. Ma, D. Tao, and **W. Liu**, "Effective human action recognition by combining manifold regularization and pairwise constraints," ***Multimedia Tools and Applications***, 10.1007/s11042-017-5172-1.
 1. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 348: 1-2, 2019, 10.1016/j.neucom.2018.08.084.(**Editorial**)
+2019. S. Fu, **W. Liu**, Y. Zhou, and L. Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks," ***Neurocomputing***, 362: 166-174, Oct. 2019.
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
 2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.(**ESI Highly Cited Papers**)
 2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**Editorial**)
