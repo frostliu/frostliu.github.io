@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！2020级拟招收模式识别与智能系统方向博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-09-23) 祝贺马学琦学位论文获评中国石油大学（华东）优秀硕士学位论文！
 * (2019-09-01) Our paper entitled " Principal Component Analysis on Graph-Hessian" has been accepted for presentation at The 2019 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2019). Con~ Yichen!
 * (2019-07-15) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" has been recognized as ESI Highly Cited papers!
 * (2019-07-15) Our paper entitled "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
@@ -134,7 +135,7 @@
 <span id = "Students"> </span>
 ## **指导学生**
 
-先后指导硕士研究生24名（中国石油大学研究生“学术十杰”**1**人次，国家奖学金**6**人次），毕业硕士研究生11名（中国石油大学优秀硕士论文**3**人次，山东省优秀研究生毕业生**3**人次，中国石油大学优秀研究生毕业生**1**人次）；指导优秀本科生毕业论文、科技创新活动数十人次。
+先后指导硕士研究生24名（中国石油大学研究生“学术十杰”**1**人次，国家奖学金**6**人次），毕业硕士研究生11名（中国石油大学优秀硕士论文**4**人次，山东省优秀研究生毕业生**3**人次，中国石油大学优秀研究生毕业生**1**人次）；指导优秀本科生毕业论文、科技创新活动数十人次。
 
 ### **在读研究生**
 
@@ -172,6 +173,7 @@
 1. [伊丽莎]()(硕士2016-2019)；（毕业去向：北京某厂）  
 
 2016. [马学琦](https://maxueqi.github.io/)(硕士2016-2019)；（毕业去向：墨尔本大学攻读博士）  
+       + 2019年，中国石油大学（华东）优秀硕士论文；
        + 2019年，山东省优秀研究生毕业生;
        + 2018年，校研究生学术十杰；
        + 2018年，研究生国家奖学金；
