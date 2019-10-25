@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！2020级拟招收模式识别与智能系统方向博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-10-25) 祝贺傅司超获研究生国家奖学金！
 * (2019-09-23) 祝贺马学琦学位论文获评中国石油大学（华东）优秀硕士学位论文！
 * (2019-09-01) Our paper entitled " Principal Component Analysis on Graph-Hessian" has been accepted for presentation at The 2019 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2019). Con~ Yichen!
 * (2019-07-15) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" has been recognized as ESI Highly Cited papers!
@@ -158,6 +159,7 @@
 2018. [赵贵啸#]()(硕士2018-2021) 
 
 2017. [傅司超]()(硕士2017-2020)
+        + 2019年，研究生国家奖学金；
         + 2019年，研究生创新工程项目，“基于图神经网络的半监督分类算法研究”（YCX2019080）；
 
 2017. [李乔楠]()(硕士2017-2020)
