@@ -103,7 +103,7 @@
 * IEEE senior member, IEEE SMC Society member, [Co-chair of IEEE SMC TC on Cognitive Computing](http://www.ieeesmc.org/technical-activities/human-machine-systems/cognitive-computing), 
 * ACM member, ACM SIGMM member, ACM SIGMM China Chapter member, 
 * APNNS member, 
-* CCF member, [CCF Computer Vision Committee member](http://www.ccfcv.org/). 
+* CCF senior member, [CCF Computer Vision Committee member](http://www.ccfcv.org/). 
 
 ### **Journal Editorial Board:** 
 
