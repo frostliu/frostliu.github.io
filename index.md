@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！2020级拟招收模式识别与智能系统方向博士研究生1名、硕士生研究生3-4名！](#forStudents)
+* (2019-11-13) Our paper entitled "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
 * (2019-10-25) 祝贺傅司超获研究生国家奖学金！
 * (2019-09-23) 祝贺马学琦学位论文获评中国石油大学（华东）优秀硕士学位论文！
 * (2019-09-01) Our paper entitled " Principal Component Analysis on Graph-Hessian" has been accepted for presentation at The 2019 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2019). Con~ Yichen!
@@ -44,6 +45,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, in press.
 1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 10.1007/s11063-019-10075-z.
 1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 10.1049/iet-ipr.2018.6224.
 1. X. Ma, **W. Liu**, D. Tao, and Y. Zhou, "Ensemble p-Laplacian Regularization for Remote Sensing Image Recognition," ***Cognitive Computation***, 10.1007/s12559-019-09637-z.
