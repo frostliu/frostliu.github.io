@@ -307,7 +307,7 @@
 
 ## Contact Details
 ![img](/images/pic.png)
-![img](/images/webQR.jpeg)
+
 
 
 [↑Top](#Top)
