@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[2020级拟招收**模式识别与智能系统方向**博士研究生1名、硕士生研究生3-4名！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2019-11-14) [课题组获山东省高校青年创新团队发展计划立项支持！](http://news.upc.edu.cn/info/1432/94889.htm)
 * (2019-11-14) 祝贺傅司超获山东省研究生优秀成果奖校内推荐！
 * (2019-11-13) Our paper entitled "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
 * (2019-10-25) 祝贺傅司超获研究生国家奖学金！
