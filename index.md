@@ -17,6 +17,7 @@
 * (2019-11-14) [课题组获山东省高校青年创新团队发展计划立项支持！](http://news.upc.edu.cn/info/1432/94889.htm)
 * (2019-11-14) 祝贺傅司超获山东省研究生优秀成果奖校内推荐！
 * (2019-11-13) Our paper entitled "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
+* (2019-11-01) [祝贺杨兴浩获2019年山东省优秀博硕士学位论文推选](http://gs.upc.edu.cn/2019/1101/c14671a223625/page.htm)
 * (2019-10-25) 祝贺傅司超获研究生国家奖学金！
 * (2019-09-23) 祝贺马学琦学位论文获评中国石油大学（华东）优秀硕士学位论文！
 * (2019-09-01) Our paper entitled " Principal Component Analysis on Graph-Hessian" has been accepted for presentation at The 2019 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2019). Con~ Yichen!
