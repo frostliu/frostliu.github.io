@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[2020级拟招收**模式识别与智能系统方向**博士研究生1名、硕士生研究生3-4名！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2019-11-25) Our paper entitled "A Survey on Canonical Correlation Analysis" has been accepted as a regular paper in the IEEE Transactions on Knowledge and Data Engineering. Con~ Xinghao!
 * (2019-11-19) [祝贺傅司超获校研究生学术十杰提名奖！](http://gs.upc.edu.cn/2019/1119/c14671a226328/page.htm)
 * (2019-11-17) Our paper entitled "p-Laplacian Regularization for Scene Recognition" has been recognized as ESI Highly Cited papers!
 * (2019-11-14) [课题组获山东省高校青年创新团队发展计划立项支持！](http://news.upc.edu.cn/info/1432/94889.htm)
@@ -50,6 +51,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. X. YANG, **W. LIU**, W. LIU, and D. TAO, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, in press.
 1. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 10.1016/j.ins.2019.11.019.
 1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 10.1007/s11063-019-10075-z.
 1. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 10.1049/iet-ipr.2018.6224.
