@@ -14,6 +14,8 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[2020级拟招收**模式识别与智能系统方向**博士研究生1名、硕士生研究生3-4名！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2019-12-05) [祝贺傅司超获山东省研究生优秀成果奖专业学位一等奖，公示中！](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)
+* (2019-12-05) [祝贺杨兴浩获2019年山东省优秀硕士学位论文，公示中！](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)
 * (2019-11-25) Our paper entitled "A Survey on Canonical Correlation Analysis" has been accepted as a regular paper in the IEEE Transactions on Knowledge and Data Engineering. Con~ Xinghao!
 * (2019-11-19) [祝贺傅司超获校研究生学术十杰提名奖！](http://gs.upc.edu.cn/2019/1119/c14671a226328/page.htm)
 * (2019-11-17) Our paper entitled "p-Laplacian Regularization for Scene Recognition" has been recognized as ESI Highly Cited papers!
