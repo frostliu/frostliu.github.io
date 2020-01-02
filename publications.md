@@ -1,6 +1,7 @@
 ##*Publications*
 
-1. S. Fu, **W. Liu**, Y. Zhou, and L. Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks," ***Neurocomputing***, 362: 166-174, Oct. 2019.
+1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 16(5): 821-825, 2019.
+2019. S. Fu, **W. Liu**, Y. Zhou, and L. Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks," ***Neurocomputing***, 362: 166-174, Oct. 2019.
 2018. **W. Liu**, L. Zhang, D. Tao, and J. Cheng, "Reinforcement Online Learning for Emotion Prediction by Using Physiological Signals", ***Pattern Recognition Letters***, 107: 123-130, 2018
 2017. **W.Liu**, T.Ma, Q.Xie, D.Tao, and J. Cheng, "LMAE: A Large Margin Auto-Encoders for Classification", ***Signal Processing***, 141: 137-143, 2017.
 2017. **W.Liu**, Z. Zhang, S. Li, and D. Tao, "Road Detection by Using a Generalized Hough Transform," ***Remote Sensing***, 9(6): 590, 2017.
