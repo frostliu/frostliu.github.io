@@ -60,33 +60,21 @@
 1. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
 1. X. Ma, D. Tao, and **W. Liu**, "Effective human action recognition by combining manifold regularization and pairwise constraints," ***Multimedia Tools and Applications***, 10.1007/s11042-017-5172-1.
 1. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 348: 1-2, 2019, 10.1016/j.neucom.2018.08.084.(**Editorial**)
-2019. S. Fu, **W. Liu**, Y. Zhou, and L. Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks," ***Neurocomputing***, 362: 166-174, Oct. 2019.
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
 2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.(**ESI Highly Cited Papers**)
 2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**Editorial**)
 2018. **W. Liu**, X. Yang, D. Tao, J. Cheng, and Y. Tang, "Multiview dimension reduction via Hessian multiset canonical correlations," ***Information Fusion***, 41: 119-128, 2018.
-2018. **W. Liu**, L. Zhang, D. Tao, and J. Cheng, "Reinforcement Online Learning for Emotion Prediction by Using Physiological Signals", ***Pattern Recognition Letters***, 107: 123-130, 2018
 2017. X. Yang, **W. Liu**, D. Tao, J. Cheng, "Canonical Correlation Analysis Networks for Two-view Image Recognition", ***Information Sciences***, 385-386: 338-352, 2017.(**ESI Highly Cited Papers**)
 2017. Y. Guo, L. Li, **W. Liu**, J. Cheng, D. Tao, "Multiview Cauchy Estimator Feature Embedding for Depth and Inertial Sensor-Based Human Action Recognition", ***IEEE Trans. on Systems, Man, and Cybernetics: Systems***, 47(4): 617-627, 2017.
-2017. **W.Liu**, T.Ma, Q.Xie, D.Tao, and J. Cheng, "LMAE: A Large Margin Auto-Encoders for Classification", ***Signal Processing***, 141: 137-143, 2017.
-2017. **W.Liu**, Z. Zhang, S. Li, and D. Tao, "Road Detection by Using a Generalized Hough Transform," ***Remote Sensing***, 9(6): 590, 2017.
-2017. **W. Liu**, L. Zhang, D. Tao, and J. Cheng, " Support Vector Machine Active Learning by Hessian Regularization," ***Journal of Visual Communication and Image Representation***, 49: 47-56, 2017.
-2017. X. Yang, **W. Liu**, D. Tao, J. Cheng, and S. Li, "Multiview Canonical Correlation Analysis Networks for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 14(10): 1855-1859, 2017.
-2017. **W. Liu**, Z. Zhang, X. Chen, S. Li, and Y. Zhou, "Dictionary Learning Based Hough Transform for Road Detection in Multispectral Image," ***IEEE Geoscience and Remote Sensing Letters***, 14(12): 2330-2334, 2017.
-2017. D. Tao, X. Yang, **W. Liu**, S. Sun, Y. Guo, Y. Yu, J. Pang, "Cauchy Estimator Discriminant Learning for RGB-D Sensor-based Scene Classification", ***Multimedia Tools and Applications***, 76(3): 4471-4489, 2017.
-2016. T.-S.Chua,X.He,**W. Liu**, M.Piccardi, Y.Wen,D. Tao,“Big Data Meets Multimedia Analytics”, ***Signal Processing***, 124: 1-4, 2016. (**Editorial**)
 2016. **W. Liu**, Z. Zha, Y. Wang, K. Lu, and D. Tao, "p-Laplacian Regularized Sparse Coding for Human Activity Recognition," ***IEEE Trans. on Industrial Electronics***, 63(8): 5120-5129, 2016.(**ESI Hot Papers,ESI Highly Cited Papers**)
 2016. **W.Liu**, H.Zhang, D.Tao, Y.Wang, K.Lu, “Large-Scale Paralleled Sparse Principal Component Analysis”, ***Multimedia Tools and Applications***, 75(3): 1481-1493, 2016. (**ESI Highly Cited Papers**)
-2016. **W. Liu**, H. Liu, and D. Tao, “Hessian regularization by patch alignment framework,” ***Neurocomputing***, 204: 183-188, 2016.
-2016. **W. Liu**, T. Ma, D. Tao, J. You, “HSAE: A Hessian Regularized Sparse Auto-Encoders”, ***Neurocomputing***, 187: 59-65, 2016.
-2016. **W. Liu**, H. Liu, D.T ao, Y. Wang, K.Lu, “Manifold regularized kernel logistic regression for web image annotation”,***Neurocomputing***, 172: 3-8, 2016.
 2015. **W.Liu**, H.Liu, D.Tao, Y.Wang, K.Lu, “Multiview Hessian regularized logistic regression for action recognition”,***Signal Processing***, 110: 101-107, 2015. (**ESI Hot Papers**)
-2015. **W. Liu**, Y. Li, D. Tao, and Y. Wang, “A general framework for co-training and its applications,” ***Neurocomputing***, 167: 112-121, 2015.
 2014. **W. Liu**, Y. Li, X. Lin, D. Tao, and Y. Wang, "Hessian regularized co-training for social activity recognition," ***PLOS One***, 9(9): e108474, 2014. (**ESI Highly Cited Papers**)
 2014. **W. Liu**, D. Tao, J. Cheng, and Y. Tang, “Multiview Hessian Discriminative Sparse Coding for Image Annotation,” ***Computer Vision and Image Understanding***, 118: 50-60, 2014. (**ESI Highly Cited Papers**)
 2013. **W. Liu** and D. Tao, “Multiview Hessian Regularization for Image Annotation,” ***IEEE Trans. on Image Processing***, 22: 2676-2687, 2013. (**ESI Hot Papers,ESI Highly Cited Papers**)
 2013. D. Tao, L. Jin, **W. Liu**, and X. Li, "Hessian Regularized Support Vector Machines for Mobile Image Annotation on the Cloud". ***IEEE Trans. on Multimedia***, 15(4): 833-844, 2013. (**ESI Highly Cited Papers**)
 
+[More...](/publications)
 [*See Weifeng Liu’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=XHc6D58AAAAJ&hl=en)  
 
 ### **专利成果**
