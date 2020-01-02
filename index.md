@@ -74,7 +74,10 @@
 2013. **W. Liu** and D. Tao, “Multiview Hessian Regularization for Image Annotation,” ***IEEE Trans. on Image Processing***, 22: 2676-2687, 2013. (**ESI Hot Papers,ESI Highly Cited Papers**)
 2013. D. Tao, L. Jin, **W. Liu**, and X. Li, "Hessian Regularized Support Vector Machines for Mobile Image Annotation on the Cloud". ***IEEE Trans. on Multimedia***, 15(4): 833-844, 2013. (**ESI Highly Cited Papers**)
 
+
 [More...](/publications)
+
+
 [*See Weifeng Liu’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=XHc6D58AAAAJ&hl=en)  
 
 ### **专利成果**
