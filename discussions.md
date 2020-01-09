@@ -1,8 +1,7 @@
 # 声明：转载内容仅代表原作者观点，若涉版权，请联系删除。
 
-为什么要读研究生？读什么样的研究生？跟着什么样的人读研究生？
-
-                                     —— 送给需要的人
+为什么要读研究生？读什么样的研究生？跟什么样的人读研究生？
+———————— 送给需要的人
 
 ### [研究生自杀悲剧反复重演 我们究竟能做点什么？](https://mp.weixin.qq.com/s/CfubD4zsJqFMGz_aNsJdVA)
 
@@ -11,9 +10,12 @@
 ### [研究生职业发展：要做个有心人](https://mp.weixin.qq.com/s/fyMqEIH2vNp0RFzWJpzKMw)
 
 ### [研究生毕业后，我才知道什么是真正的学习](https://mp.weixin.qq.com/s/XJ0tXkj90CkkcV-DgSYqpQ)
-[]()
-[]()
-[]()
+
+### [研究生期间该懂的那些事](https://mp.weixin.qq.com/s/VlCvU0HokaFh5Wn1Vorq3g)
+
+### [研究生自杀背后：异化的师生关系](https://mp.weixin.qq.com/s/JMM9gViv_FCZPwcO3x-5Yg)
+
+### [《Nature》发文：好导师的16个标准](https://mp.weixin.qq.com/s/VoYHF5HRsOJRRrh_284KTA)
 []()
 []()
 []()
