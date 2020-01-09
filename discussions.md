@@ -9,6 +9,8 @@
 
 ### [《Nature》发文：好导师的16个标准](https://mp.weixin.qq.com/s/VoYHF5HRsOJRRrh_284KTA)
 
+### [博硕研究生期间应该明确的50件事](https://mp.weixin.qq.com/s/_olsH36z5-wItyxzd7bz-Q)
+
 ### [不能自律的学生不适合读研](http://news.sciencenet.cn/sbhtmlnews/2018/11/340604.shtm?bsh_bid=2914332265&from=timeline&isappinstalled=0)
 
 ### [读研秘技六：正说寻师 - 四个维度](http://blog.sciencenet.cn/home.php?mod=space&uid=3389532&do=blog&id=1203854)
@@ -18,6 +20,8 @@
 ### [复旦大学教授：研究生读得好，人生就像开了挂](https://mp.weixin.qq.com/s/nYl9ugcRdjb7EZqkN-WCzQ)
 
 ### [告研究生新生书](https://mp.weixin.qq.com/s/K-ffihp3UOj9_RfNq9VrCA)
+
+### [给调剂研究生们几点建议](https://mp.weixin.qq.com/s/rsufg4fZd1GiDVvqj0WCWQ)
 
 ### [关于考博联系导师的那些事儿……](https://mp.weixin.qq.com/s/EK8U9Ndw9Rbe9v2XJcA3sg)
 
@@ -33,11 +37,15 @@
 
 ### [上交大千人教授骂学生被处分，高校教授有话说：研究生不是混学历](https://news.html5.qq.com/share/1578313705308813965?ch=060000&ctrid=1&dataSrc=96&data_type=1&docId=1578313705308813965&extenddata=%2526contentLevel%253D3%2526dataSrc%253D96%2526queryId%253D1553643466758%2526sGrayPlatFormModelId%253D101989%2523102836%2523103003%2523102744%2523102225%2523103436%2523103265%2523103205%2523103317%2523100773%2523103282%2523103467%2523101195%2523103355%2523101214%2523103297%2523103365%2523103358%2523103433%2523103398%2523103450%2526sModelId%253D101989%2523102836%2523103003%2523102744%2523102225%2523103436%2523103265%2523103205%2523103317%2523100773%2523103282%2523103467%2523101195%2523103355%2523101214%2523103297%2523103365%2523103358%2523103433%2523103398%2523103450%2526sStrategyId%253D59%2526subjectId%253D11012%2526zimeitiId%253Dqeh_6404636&pid=1&qbredirect&sc_id=9lSAskC&share=true&share_count=2&showAttach=1&showDate=1&tabId=0&tagId=0&url=http%253A%252F%252Fkuaibao.qq.com%252Fs%252F20190326A06P0C00&from=timeline&isappinstalled=0)
 
+### [神总结——如何处理与导师的关系？](https://mp.weixin.qq.com/s/xSkDFTSyI5Fmoyds9grKZw)
+
 ### [台湾清华大学教授撰写研究生手册，让你少走很多弯路！](https://mp.weixin.qq.com/s/HODirk39mJH-OWAFClNDaQ)
 
 ### [学生如何能做到push导师？](https://mp.weixin.qq.com/s/A764z8ldXEFVptutnurx-w)
 
 ### [研究生毕业后，我才知道什么是真正的学习](https://mp.weixin.qq.com/s/XJ0tXkj90CkkcV-DgSYqpQ)
+
+### [研究生能学到什么](https://mp.weixin.qq.com/s/ASqnV4lKiXWJ25E6-oOV9w)
 
 ### [研究生期间该懂的那些事](https://mp.weixin.qq.com/s/VlCvU0HokaFh5Wn1Vorq3g)
 
