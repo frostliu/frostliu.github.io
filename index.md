@@ -59,7 +59,7 @@
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
 2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.(**ESI Highly Cited Papers**)
 2018. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 348: 1-2, 2019, 10.1016/j.neucom.2018.08.084.(**Editorial**)
-2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**Editorial**)
+2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**<font color=red>Editorial</font>**)
 2018. **W. Liu**, X. Yang, D. Tao, J. Cheng, and Y. Tang, "Multiview dimension reduction via Hessian multiset canonical correlations," ***Information Fusion***, 41: 119-128, 2018.(**ESI Highly Cited Papers**)
 2017. X. Yang, **W. Liu**, D. Tao, J. Cheng, "Canonical Correlation Analysis Networks for Two-view Image Recognition", ***Information Sciences***, 385-386: 338-352, 2017.(**ESI Highly Cited Papers**)
 2017. Y. Guo, L. Li, **W. Liu**, J. Cheng, D. Tao, "Multiview Cauchy Estimator Feature Embedding for Depth and Inertial Sensor-Based Human Action Recognition", ***IEEE Trans. on Systems, Man, and Cybernetics: Systems***, 47(4): 617-627, 2017.
