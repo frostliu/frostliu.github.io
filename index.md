@@ -14,7 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[2020级拟招收**模式识别与智能系统方向**博士研究生1名、硕士生研究生3-4名！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
-* (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Heghly Cited papers!
+* (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
 * (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
 * (2019-12-15) Our paper entitled "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
 * (2019-12-05) [祝贺傅司超获山东省研究生优秀成果奖专业学位一等奖，公示中！](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)
