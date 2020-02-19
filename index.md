@@ -13,7 +13,7 @@
 ---  
 <span id = "News"> </span> 
 ## **News**  
-* 🎈[2020级拟招收**模式识别与智能系统方向**博士研究生1名、硕士生研究生3-4名！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* 🎈[招收**模式识别与智能系统方向**博士研究生（年均1名）、硕士生研究生（年均3-4名）！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
 * (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
 * (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
 * (2019-12-15) Our paper entitled "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
@@ -290,7 +290,7 @@
 联系我作研究生导师之前，请先了解我的[学生情况](#Students)、研究领域、工作方式、科研要求，尤其考虑以下几点：
 1. **兴趣是最好的驱动力， 你是否对我的研究方向有兴趣？**  
 2. **研究和开发需要长期的坚持，你是否有足够的决心和毅力？**  
-3. **你是否认同我的工作态度及方式？**（你可以从我的学生那里打听到很多）  
+3. **你是否认同我的工作态度及方式？**（可以的话，多听一下我学生的切身体会）  
 
 我能够招收如下类型博士研究生，每届招生名额1名左右：
 1. 学术学位博士研究生（0811控制科学与工程：03模式识别与智能系统）-控制科学与工程学院；
