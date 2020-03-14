@@ -29,6 +29,8 @@
 
 ### [华人生物学家蒲慕明写给实验室博士的email，施一公转给了所有学生](https://wenhui.whb.cn/third/baidu/201904/10/255005.html?sdkver=7cbb062d&clientprefetch=1&from=timeline&isappinstalled=0)
 
+### [科研“潜规则”了解一下](https://mp.weixin.qq.com/s/iNG-bqnx5RrpPtsVVSCvjg)
+
 ### [麻省理工学院(MIT)研究生学习指导—— 怎样做研究生](https://mp.weixin.qq.com/s/3PUM4ZucqLY6ilH48wHukw)
 
 ### [没有痛苦的博士求学经历不是合格的](https://mp.weixin.qq.com/s/p8dpOueNYNIGV294ViHlKg)
