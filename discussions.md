@@ -25,6 +25,8 @@
 
 ### [关于考博联系导师的那些事儿……](https://mp.weixin.qq.com/s/EK8U9Ndw9Rbe9v2XJcA3sg)
 
+### [鉴定！这真的是读完硕博后才懂得的道理](https://mp.weixin.qq.com/s/YN3dhN9ivZdkMKApQCh6tw)
+
 ### [金庸先生告诉你，跟对了导师是一种怎样的体验](https://mp.weixin.qq.com/s/6G3EJ4ta5HT74b5K_p6Orw)
 
 ### [华人生物学家蒲慕明写给实验室博士的email，施一公转给了所有学生](https://wenhui.whb.cn/third/baidu/201904/10/255005.html?sdkver=7cbb062d&clientprefetch=1&from=timeline&isappinstalled=0)
