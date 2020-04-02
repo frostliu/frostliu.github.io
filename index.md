@@ -317,7 +317,7 @@
 ---
 
 ## Contact Details
-![img](/images/pic.png)
+![img](/images/pic.png) ![img](/images/WeChatgzhQR.png)
 
 
 
