@@ -46,6 +46,9 @@
 
 [See more past news.](/pastnews)
 
+
+![img](/images/WeChatgzhQR.png)
+
 [↑Top](#Top)
 
 ---
@@ -317,8 +320,7 @@
 ---
 
 ## Contact Details
-![img](/images/pic.png) ![img](/images/WeChatgzhQR.png)
-
+![img](/images/pic.png) 
 
 
 [↑Top](#Top)
