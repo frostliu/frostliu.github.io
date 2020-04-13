@@ -115,6 +115,7 @@
 
 ### **Conference/Session (Co-)Chair:** 
 
+* China MM registration chair (2020)
 * ICCH special session chair (Machine Learning for Health Informatics, 2012)
 * ICIMCS registration chair (2017)
 * ICMLA publicity co-chair (2012)
