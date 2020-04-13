@@ -63,6 +63,8 @@
 
 ### [研究生职业发展：要做个有心人](https://mp.weixin.qq.com/s/fyMqEIH2vNp0RFzWJpzKMw)
 
+### [研三亲姐的经验之谈，也许对你很有用](https://mp.weixin.qq.com/s/D1CBaCVj59M80sswhL1Ifw)
+
 ### [一个成功学生的背后，经常有一个会push的导师](https://mp.weixin.qq.com/s/HJDxmOFX8SBR6LIlwD11kw)
 
 ### [一篇所有研究生都该读的好文：阳光温热，科研静好！](https://mp.weixin.qq.com/s/_K3Bi471N1M_IyDgE50R0g)
