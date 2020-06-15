@@ -14,6 +14,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-06-12) 祝贺傅司超获推荐校级优秀硕士学位论文！
 * (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
 * (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
 * (2019-12-15) Our paper entitled "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
@@ -165,6 +166,7 @@
 2018. [赵贵啸#]()(硕士2018-2021) 
 
 2017. [傅司超]()(硕士2017-2020)
+        + 2020年，中国石油大学（华东）优秀硕士论文；
         + 2020年，山东省优秀研究生毕业生;
         + 2019年，山东省研究生优秀成果奖专业学位一等奖；
         + 2019年，校研究生学术十杰提名奖；
@@ -229,6 +231,7 @@
 
 
 ### **优秀本科毕业论文**
+* 2020年，校级优秀本科毕业论文，“基于域间流形结构关系的迁移学习方法探究”，蔡玉颖
 * 2018年，省级优秀学士学位论文，“多光谱遥感图像直线道路检测算法研究”，陈兴华
 * 2018年，校级优秀本科毕业论文，“基于图上鲁棒主分量分析的聚类方法研究”，潘宜辰
 * 2017年，省级优秀学士学位论文，“基于边连接信息的图像分类方法研究”，马学琦
