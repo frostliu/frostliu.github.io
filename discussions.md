@@ -57,6 +57,8 @@
 
 ### [研究生期间需要知晓的20条法则，第一条就直接让人崩溃……](https://mp.weixin.qq.com/s/8RuPNrbGK2EuwPw23nylbA)
 
+### [研究生的早期科研之路](https://mp.weixin.qq.com/s/MDB_er6rfKhXkDp-m1w-tg)
+
 ### [研究生自杀悲剧反复重演 我们究竟能做点什么？](https://mp.weixin.qq.com/s/CfubD4zsJqFMGz_aNsJdVA)
 
 ### [研究生自杀背后：异化的师生关系](https://mp.weixin.qq.com/s/JMM9gViv_FCZPwcO3x-5Yg)
