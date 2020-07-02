@@ -3,6 +3,13 @@
 
 ---
 
+## Contact Details
+![img](/images/pic.png) 
+
+
+
+
+---
 **Weifeng Liu** (M'12-SM'17) is currently a Professor with the College of Control Science and Engineering, China University of Petroleum (East China), China.  He received the double B.S. degree in automation and business administration and the Ph.D. degree in pattern recognition and intelligent systems from the University of Science and Technology of China, Hefei, China, in 2002 and 2007, respectively. He was a Visiting Scholar with the Centre for Quantum Computation & Intelligent Systems, Faculty of Engineering & Information Technology, University of Technology Sydney, Sydney, Australia, from 2011 to 2012. His current research interests include pattern recognition and machine learning. He has authored or co-authored a dozen papers in top journals and prestigious conferences including 10 ESI Highly Cited Papers and 3 ESI Hot Papers. Dr. Weifeng Liu serves as associate editor for Neural Processing Letter, co-chair for IEEE SMC technical committee on cognitive computing, and guest editor of special issue for Signal Processing, IET Computer Vision, Neurocomputing, and Remote Sensing. He also serves dozens of journals and conferences.  
 
 
@@ -300,10 +307,6 @@
 你也可以通过我的公众号进一步了解我：
 ![img](/images/WeChatgzhQR2.png)
 ---
-
-## Contact Details
-![img](/images/pic.png) 
-
 
 [↑Top](#Top)
 
