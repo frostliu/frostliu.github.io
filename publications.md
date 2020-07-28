@@ -1,4 +1,4 @@
-##*Publications*
+## *Publications*
 
 1. G. Feng, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hessian regularized multi-task dictionary learning for Remote Sensing Image Recognition," ***IEEE Geoscience and Remote Sensing Letters***, 16(5): 821-825, 2019.
 2019. S. Fu, **W. Liu**, S. Li, and Y. Zhou, "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification," ***IET Image Processing***, 13: 2763-2771,2019, 10.1049/iet-ipr.2018.6224.
