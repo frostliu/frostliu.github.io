@@ -61,6 +61,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
 1. **W. Liu**, S. Fu, Y. Zhou, Zh.-J. Zha, and L. Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", ***Neurocomputing***, in press.
 1. X. Yang, **W. Liu**, W. Liu, and D. Tao, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2019.2958342.
 1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 51(1): 23-39, 2020. 10.1007/s11063-019-10075-z.
