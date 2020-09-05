@@ -21,9 +21,9 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-09-05) [祝贺傅司超获校级优秀硕士学位论文！](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
 * (2020-08-10) Our paper entitled "Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition" has been accepted for publication in the IEEE Transactions on Knowledge and Data Engineering. Con~ Xinghao!
 * (2020-07-28) Our paper entitled "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications. Con~ Sichao!
-* (2020-06-12) 祝贺傅司超获推荐校级优秀硕士学位论文！
 * (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
 * (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
 * (2019-12-15) Our paper entitled "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
