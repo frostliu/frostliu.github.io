@@ -21,7 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
-* (2020-10-13) 祝贺李金凤获研究生国家奖学金学院推荐！
+* (2020-10-13) [祝贺李金凤获研究生国家奖学金学院推荐！](http://ocean.upc.edu.cn/2020/1012/c15079a318375/page.htm)
 * (2020-09-11) One paper entitled "Urban Perception: Sensing Cities via a Deep Interactive Multi-task Learning Framework" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications.
 * (2020-09-10) Our paper entitled "Unified Cross-domain Classification via Geometric and Statistical Adaptations" has been accepted for publication in Pattern Recognition. Con~ Jinfeng!
 * (2020-09-05) [祝贺傅司超获校级优秀硕士学位论文！](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
