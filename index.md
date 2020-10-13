@@ -65,7 +65,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. **Weifeng Liu***, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
+1. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
 1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
 1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
 1. **W. Liu**, S. Fu, Y. Zhou, Zh.-J. Zha, and L. Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", ***Neurocomputing***, in press.
