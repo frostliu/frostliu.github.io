@@ -13,6 +13,8 @@
 
 ### [不能自律的学生不适合读研](http://news.sciencenet.cn/sbhtmlnews/2018/11/340604.shtm?bsh_bid=2914332265&from=timeline&isappinstalled=0)
 
+### [大连理工的悲剧发生后，读博又休学的我有些话想说](https://mp.weixin.qq.com/s/hsFV7RRMBoxbWAHGLeRTlw)
+
 ### [读研秘技六：正说寻师 - 四个维度](http://blog.sciencenet.cn/home.php?mod=space&uid=3389532&do=blog&id=1203854)
 
 ### [读研究生应该做什么？导师会帮你什么？](https://mp.weixin.qq.com/s/0sgLf4a0Jhz_RWg4g-cpcQ)
