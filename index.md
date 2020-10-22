@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-10-22) One paper entitled "Targeted Attention Attack on Deep Learning Models in Road Sign Recognition" has been accepted for publication in the IEEE Internet of Things. Con~ Xinghao!
 * (2020-10-13) [祝贺李金凤获研究生国家奖学金学院推荐！](http://ocean.upc.edu.cn/2020/1012/c15079a318375/page.htm)
 * (2020-09-11) One paper entitled "Urban Perception: Sensing Cities via a Deep Interactive Multi-task Learning Framework" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications.
 * (2020-09-10) Our paper entitled "Unified Cross-domain Classification via Geometric and Statistical Adaptations" has been accepted for publication in Pattern Recognition. Con~ Jinfeng!
@@ -65,6 +66,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. Xinghao Yang, **Weifeng Liu**, Shengli Zhang, Wei Liu and Dacheng Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
 1. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
 1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
 1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
