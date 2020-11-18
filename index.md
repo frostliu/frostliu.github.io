@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-11-18) [祝贺马学琦获山东省优秀硕士学位论文推荐！](http://gs.upc.edu.cn/2020/1118/c14671a322256/page.htm)
 * (2020-10-22) One paper entitled "Targeted Attention Attack on Deep Learning Models in Road Sign Recognition" has been accepted for publication in the IEEE Internet of Things. Con~ Xinghao!
 * (2020-10-13) [祝贺李金凤获研究生国家奖学金学院推荐！](http://ocean.upc.edu.cn/2020/1012/c15079a318375/page.htm)
 * (2020-09-11) One paper entitled "Urban Perception: Sensing Cities via a Deep Interactive Multi-task Learning Framework" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications.
