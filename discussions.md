@@ -49,6 +49,8 @@
 
 ### [台湾清华大学教授撰写研究生手册，让你少走很多弯路！](https://mp.weixin.qq.com/s/HODirk39mJH-OWAFClNDaQ)
 
+### [选择合适的导师，让你的研究生时光收获满满](https://mp.weixin.qq.com/s/hknctsErMuG4pDOv_Hqnag)
+
 ### [学生如何能做到push导师？](https://mp.weixin.qq.com/s/A764z8ldXEFVptutnurx-w)
 
 ### [研究生毕业后，我才知道什么是真正的学习](https://mp.weixin.qq.com/s/XJ0tXkj90CkkcV-DgSYqpQ)
