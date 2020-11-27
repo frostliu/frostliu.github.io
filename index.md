@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-11-27) [祝贺李金凤获山东省研究生优秀成果奖评选推荐！](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
 * (2020-11-19) 祝贺刘伟锋获评校首届研究生十佳导师！
 * (2020-11-18) [祝贺马学琦获山东省优秀硕士学位论文推荐！](http://gs.upc.edu.cn/2020/1118/c14671a322256/page.htm)
 * (2020-10-22) One paper entitled "Targeted Attention Attack on Deep Learning Models in Road Sign Recognition" has been accepted for publication in the IEEE Internet of Things. Con~ Xinghao!
