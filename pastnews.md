@@ -1,4 +1,20 @@
 # PastNews
+* (2019-10-25) 祝贺傅司超获研究生国家奖学金！
+* (2019-09-23) 祝贺马学琦学位论文获评中国石油大学（华东）优秀硕士学位论文！
+* (2019-09-01) Our paper entitled " Principal Component Analysis on Graph-Hessian" has been accepted for presentation at The 2019 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2019). Con~ Yichen!
+* (2019-07-15) Our paper entitled "Hypergraph p-Laplacian Regularization for Remotely Sensed Image Recognition" has been recognized as ESI Highly Cited papers!
+* (2019-07-15) Our paper entitled "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
+* (2019-06-27) Our paper entitled "Domain Adaptation with Few Labeled Source Samples by Graph Regularization" has been accepted for publication in Neural Processing Letters. Con~ Jinfeng!
+* (2019-06-06) CFP: [special issue for Applied Remote Sensing：Representation Learning and Big Data Analytics for Remote Sensing](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/call-for-papers?SSO=1&from=timeline#RepresentationLearningandBigDataAnalyticsforRemoteSensing).
+* (2019-06-05) Our paper "Dynamic Graph Convolutional Networks via Manifold Regularization" has been accepted by IJCAI-2019 workshop on "Deep Learning for Human Activity Recognition", con~ Sichao!
+* (2019-05-30) 祝贺马学琦获批CSC-墨尔本大学公派博士生项目！
+* (2019-05-16) 祝贺傅司超获批2019年度研究生创新工程项目！
+* (2019-05-15) Our paper "Hessian regularized co-training for social activity recognition" has been recognized as ESI highly cited papers.
+* (2019-04-12) CFP: [IEEE SMC 2019](http://smc2019.org/) special session ["Deep Models for Intelligent Multimedia Understanding (**Code 78t6d**)"](https://frostliu.github.io/smc2019).
+* (2019-03-12) Our paper "A Two-Order Graph Convolutional Networks for Semi-Supervised Classification" has been accepted by IET Image Processing, con~ Sichao!
+* (2019-03-10) Our paper "Ensemble p-Laplacian Regularization for Scene Image Recognition" has been accepted by Cognitive Computation, con~ Xueqi!
+* (2019-02-26) 祝贺马学琦入选山东省优秀研究生毕业生，[初选名单公示中](http://ygb.upc.edu.cn/_t235/2019/0222/c3793a190450/page.psp)！
+* (2019-01-30) Our paper "Hessian regularized distance metric learning for people re-identification" is accepted by Neural Processing Letters, con~ Guanhua!
 * (2018-12-26) 祝贺杨兴浩获校优秀硕士学位论文！
 * (2018-12-07) [祝贺马学琦获评校第十三届研究生学术十杰！](http://news.upc.edu.cn/info/1432/89379.htm)
 * (2018-11-21) 祝贺陈兴华获山东省优秀学士学位论文！
