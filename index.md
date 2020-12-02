@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinhao!
 * (2020-11-27) [祝贺李金凤获山东省研究生优秀成果奖评选推荐！](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
 * (2020-11-19) 祝贺刘伟锋获评校首届研究生十佳导师！
 * (2020-11-18) [祝贺马学琦获山东省优秀硕士学位论文推荐！](http://gs.upc.edu.cn/2020/1118/c14671a322256/page.htm)
@@ -54,6 +55,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. Xinghao Yang, **Weifeng Liu**, James Bailey, Dacheng Tao and Wei Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
 1. Xinghao Yang, **Weifeng Liu**, Shengli Zhang, Wei Liu and Dacheng Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
 1. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
 1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
