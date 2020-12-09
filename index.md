@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2020-12-09) One paper entitled "Local Structure Alignment Guided Domain Adaptation with Few Source Samples" has been accepted in ACM MM Asia2020 as a special session paper. Con~ Yuying!
 * (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinhao!
 * (2020-11-27) [祝贺李金凤获山东省研究生优秀成果奖评选推荐！](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
 * (2020-11-19) 祝贺刘伟锋获评校首届研究生十佳导师！
