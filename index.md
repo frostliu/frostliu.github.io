@@ -22,6 +22,8 @@
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
 * (2021-01-25) One paper entitled "p-Laplacian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
+* (2021-01-24) 祝贺昝畅通获2020年山东省大学生创新方法应用大赛二等奖，单芮获2020年山东省大学生创新方法应用大赛三等奖！
+* (2020-12-25) 祝贺王飞获2020年山东省大学生科技创新大赛三等奖！
 * (2020-12-10) 祝贺马学琦获2020年度山东省人工智能学会优秀学位论文！[公示中](https://www.sdaai.org.cn/newsinfo/953876.html)
 * (2020-12-09) One paper entitled "Local Structure Alignment Guided Domain Adaptation with Few Source Samples" has been accepted in ACM MM Asia2020 as a special session paper. Con~ Yuying!
 * (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinghao!
