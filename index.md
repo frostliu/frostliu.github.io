@@ -21,9 +21,10 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2021-01-25) One paper entitled "p-Laplacian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
 * (2020-12-10) 祝贺马学琦获2020年度山东省人工智能学会优秀学位论文！[公示中](https://www.sdaai.org.cn/newsinfo/953876.html)
 * (2020-12-09) One paper entitled "Local Structure Alignment Guided Domain Adaptation with Few Source Samples" has been accepted in ACM MM Asia2020 as a special session paper. Con~ Yuying!
-* (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinhao!
+* (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinghao!
 * (2020-11-27) [祝贺李金凤获山东省研究生优秀成果奖评选推荐！](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
 * (2020-11-19) 祝贺刘伟锋获评校首届研究生十佳导师！
 * (2020-11-18) [祝贺马学琦获山东省优秀硕士学位论文推荐！](http://gs.upc.edu.cn/2020/1118/c14671a322256/page.htm)
@@ -57,14 +58,15 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
+1. Sichao Fu, **Weifeng Liu**, Dapeng Tao and Yicong Zhou, p-Laplacian Graph Convolutional Networks for Semi-Supervised Classification. ***Information Sciences***, in press 
 1. Xinghao Yang, **Weifeng Liu**, James Bailey, Dacheng Tao and Wei Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
 1. Xinghao Yang, **Weifeng Liu**, Shengli Zhang, Wei Liu and Dacheng Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
-1. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
 1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
 1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
 1. **W. Liu**, S. Fu, Y. Zhou, Zh.-J. Zha, and L. Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", ***Neurocomputing***, in press.
 1. X. Yang, **W. Liu**, W. Liu, and D. Tao, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2019.2958342.
-1. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 51(1): 23-39, 2020. 10.1007/s11063-019-10075-z.
+2021. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
+2020. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 51(1): 23-39, 2020. 10.1007/s11063-019-10075-z.
 2020. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 514: 484-498,2020. 10.1016/j.ins.2019.11.019.
 2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
