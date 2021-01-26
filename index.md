@@ -37,16 +37,7 @@
 * (2020-07-28) Our paper entitled "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications. Con~ Sichao!
 * (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
 * (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
-* (2019-12-15) Our paper entitled "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks" has been accepted for publication in Neurocomputing. Con~ Sichao!
-* (2019-12-05) [祝贺傅司超获山东省研究生优秀成果奖专业学位一等奖，公示中！](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)
-* (2019-12-05) [祝贺杨兴浩获2019年山东省优秀硕士学位论文，公示中！](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)
-* (2019-11-25) Our paper entitled "A Survey on Canonical Correlation Analysis" has been accepted as a regular paper in the IEEE Transactions on Knowledge and Data Engineering. Con~ Xinghao!
-* (2019-11-19) [祝贺傅司超获校研究生学术十杰提名奖！](http://gs.upc.edu.cn/2019/1119/c14671a226328/page.htm)
-* (2019-11-17) Our paper entitled "p-Laplacian Regularization for Scene Recognition" has been recognized as ESI Highly Cited papers!
-* (2019-11-14) [课题组获山东省高校青年创新团队发展计划立项支持！](http://news.upc.edu.cn/info/1432/94889.htm)
-* (2019-11-14) 祝贺傅司超获山东省研究生优秀成果奖校内推荐！
-* (2019-11-13) Our paper entitled "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
-* (2019-11-01) [祝贺杨兴浩获2019年山东省优秀博硕士学位论文推选](http://gs.upc.edu.cn/2019/1101/c14671a223625/page.htm)
+
 
 
 
@@ -153,7 +144,7 @@
 |研究生奖项|学生（年度）|
 |:----|:----|
 |山东省优秀硕士学位论文|马学琦(2020)、杨兴浩(2019)|
-|山东省人工智能学会优秀学位论文|马学琦(2020)|
+|山东省人工智能学会优秀硕士学位论文|马学琦(2020)|
 |中国石油大学（华东）优秀硕士论文|傅司超（2020）、马学琦（2019）、杨兴浩（2018）、刘红丽（2015）、宋彩风（2013）|
 |中国石油大学（华东）“学术十杰”|马学琦（2018）|
 |中国石油大学（华东）“学术十杰”提名奖|傅司超（2019）|
