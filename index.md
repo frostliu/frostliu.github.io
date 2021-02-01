@@ -21,7 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
-* (2021-01-25) One paper entitled "p-Laplacian Graph Convolutional Networks for Semi-Supervised Classification" has been accepted for publication in Information Sciences. Con~ Sichao!
+* (2021-01-25) One paper entitled "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks" has been accepted for publication in Information Sciences. Con~ Sichao!
 * (2021-01-24) 祝贺昝畅通获2020年山东省大学生创新方法应用大赛二等奖，单芮获2020年山东省大学生创新方法应用大赛三等奖！
 * (2020-12-25) 祝贺王飞获2020年山东省大学生科技创新大赛三等奖！
 * (2020-12-10) 祝贺马学琦获2020年度山东省人工智能学会优秀学位论文！[公示中](https://www.sdaai.org.cn/newsinfo/953876.html)
@@ -51,7 +51,7 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. Sichao Fu, **Weifeng Liu**, Dapeng Tao and Yicong Zhou, p-Laplacian Graph Convolutional Networks for Semi-Supervised Classification. ***Information Sciences***, in press 
+1. Sichao Fu, **Weifeng Liu**, Kai Zhang, Dapeng Tao and Yicong Zhou, Semi-supervised Classification by Graph p-Laplacian Convolutional Networks. ***Information Sciences***, in press 
 1. Xinghao Yang, **Weifeng Liu**, James Bailey, Dacheng Tao and Wei Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
 1. Xinghao Yang, **Weifeng Liu**, Shengli Zhang, Wei Liu and Dacheng Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
 1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
