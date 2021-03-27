@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+*  CFPs: [SPECIAL SESSION ON “New Advances in Intelligent Multimedia Computing ” IEEE SMC2021.](#/SMC2021)
 * (2021-03-06) One paper has been accepted on ICME2021. Con~ Jian！
 * (2021-02-01) 祝贺傅司超获2020年度中国电子学会优秀硕士学位论文（公示中）！
 * (2021-01-25) One paper entitled "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks" has been accepted for publication in Information Sciences. Con~ Sichao!
