@@ -21,6 +21,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2021-04-30) One paper entitled "BESA: BERT-based Simulated Annealing for Adversarial Text Attacks" has benn accepted on IJCAI2021. Con~ Xinghao!
 *  CFPs: [SPECIAL SESSION ON “New Advances in Intelligent Multimedia Computing ” IEEE SMC2021.](http://frostliu.github.io/SMC2021)
 * (2021-04-15) One paper has been accepted for publication in IET Image Processing. Con~ Changtong!
 * (2021-04-02) Two papers have been accepted on CCC2021. Con~ Yunxue and Jiaxing!
@@ -56,10 +57,11 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. Sichao Fu, **Weifeng Liu**, Kai Zhang, Dapeng Tao and Yicong Zhou, Semi-supervised Classification by Graph p-Laplacian Convolutional Networks. ***Information Sciences***, in press 
-1. Xinghao Yang, **Weifeng Liu**, James Bailey, Dacheng Tao and Wei Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
-1. Xinghao Yang, **Weifeng Liu**, Shengli Zhang, Wei Liu and Dacheng Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
-1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
+1. X. Yang, **W. Liu**, D. Tao, W. Liu, BESA: BERT-based Simulated Annealing for Adversarial Text Attacks, ***IJCAI2021***, in press
+1. S. Fu, **W. Liu**, K. Zhang, D. Tao and Y. Zhou, Semi-supervised Classification by Graph p-Laplacian Convolutional Networks. ***Information Sciences***, in press 
+1. X. Yang, **W. Liu**, J. Bailey, D. Tao and W. Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
+1. X. Yang, **W. Liu**, S. Zhang, W. Liu and D. Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
+1. X. Yang, **W. Liu** and W. Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
 1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
 1. **W. Liu**, S. Fu, Y. Zhou, Zh.-J. Zha, and L. Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", ***Neurocomputing***, in press.
 1. X. Yang, **W. Liu**, W. Liu, and D. Tao, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2019.2958342.
