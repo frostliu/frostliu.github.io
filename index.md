@@ -21,7 +21,8 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
-* (2021-06-15) One paper entitled has been accepted on ICANN2021. Con~ Xuyang!
+* (2021-07-16) One paper entitled "Example-Feature Graph Convolutional Networks for Semi-supervised Classification" has been accepted for publication in Neurocomputing. Con~ Sichao!
+* (2021-06-15) One paper entitled "Leveraging GANs via Non-local Features" has been accepted on ICANN2021. Con~ Xuyang!
 * (2021-04-30) One paper entitled "BESA: BERT-based Simulated Annealing for Adversarial Text Attacks" has been accepted on IJCAI2021. Con~ Xinghao!
 *  CFPs: [SPECIAL SESSION ON “New Advances in Intelligent Multimedia Computing ” IEEE SMC2021.](http://frostliu.github.io/SMC2021)
 * (2021-04-15) One paper has been accepted for publication in IET Image Processing. Con~ Changtong!
