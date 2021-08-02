@@ -21,6 +21,8 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2021-08-02)傅司超硕士学位论文获评山东省人工智能学会优秀硕士学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/1763891.html)），祝贺司超！
+* (2021-08-02)课题组一项目获山东省人工智能学会科学技术奖（自然奖）一等奖！（[公式中](https://www.sdaai.org.cn/newsinfo/1763852.html)）
 * (2021-07-16) One paper entitled "Example-Feature Graph Convolutional Networks for Semi-supervised Classification" has been accepted for publication in Neurocomputing. Con~ Sichao!
 * (2021-06-15) One paper entitled "Leveraging GANs via Non-local Features" has been accepted on ICANN2021. Con~ Xuyang!
 * (2021-04-30) One paper entitled "BESA: BERT-based Simulated Annealing for Adversarial Text Attacks" has been accepted on IJCAI2021. Con~ Xinghao!
@@ -156,7 +158,7 @@
 |:----|:----|
 |山东省优秀硕士学位论文|马学琦(2020)、杨兴浩(2019)|
 |中国电子学会优秀硕士学位论文|傅司超(2020)|
-|山东省人工智能学会优秀硕士学位论文|马学琦(2020)|
+|山东省人工智能学会优秀硕士学位论文|马学琦(2020)、傅司超（2021）|
 |中国石油大学（华东）优秀硕士论文|傅司超（2020）、马学琦（2019）、杨兴浩（2018）、刘红丽（2015）、宋彩风（2013）|
 |中国石油大学（华东）“学术十杰”|马学琦（2018）|
 |中国石油大学（华东）“学术十杰”提名奖|傅司超（2019）|
