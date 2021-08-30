@@ -22,6 +22,8 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2021-08-31) One paper entitled "Interference Distillation for Underwater Fish Recognition" has been accepted on ACPR2021. Con~ Jian!
+* (2021-08-27) One paper entitled "Location Soft-Aggregation Based Band Weighting for Hyperspectral Image Classification" has been accepted for publicaion the IEEE Geoscience and Remote Sensing Letters. Con~ Xuefei! 
 * (2021-08-17) One paper entitled "Learning Representation on Optimized High-Order Manifold for 3D Shape Recognition" has been accepted for publicatin in IEEE Trans. Multimedia. Con~ Xueqi!
 * (2021-08-02)[课题组同学一项目获第七届山东省“互联网+”大学生创新创业大赛金奖](http://news.upc.edu.cn/info/1432/105582.htm)，祝贺潘婷等同学！
 * (2021-08-02)傅司超硕士学位论文获评山东省人工智能学会优秀硕士学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/1763891.html)），祝贺司超！
