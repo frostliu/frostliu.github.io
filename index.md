@@ -22,6 +22,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2021-10-17) One paper has been won the award of the best paper on the 10th International Symposium on Precision Mechanical Measurment. Con~ Yao!
 * (2021-09-16) One paper entitled “Domain-invariant Graph for Adaptive Semi-supervised Domain Adaptation” has been accepted for publication in the Transactions on ACM Multimedia Computing Communications and Applications. Con~ Jinfeng!
 * (2021-08-31) One paper entitled "Interference Distillation for Underwater Fish Recognition" has been accepted on ACPR2021. Con~ Jian!
 * (2021-08-27) One paper entitled "Location Soft-Aggregation Based Band Weighting for Hyperspectral Image Classification" has been accepted for publicaion the IEEE Geoscience and Remote Sensing Letters. Con~ Xuefei! 
