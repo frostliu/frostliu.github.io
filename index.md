@@ -22,6 +22,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2022-02-05) One paper entitled "Co-learning for Few-shot Learning" has been accepted for publication in Neural Processing Letters. Con~ Rui!
 * (2021-11-02) One paper entitled "DMH-FSL: Dual-Modal Hypergraph for Few-Shot Learning" has been accepted for publication in Neural Processing Letters. Con~ Rui!
 * (2021-10-17) One paper has won the award of the best paper on the 10th International Symposium on Precision Mechanical Measurment. Con~ Yao!
 * (2021-09-16) One paper entitled “Domain-invariant Graph for Adaptive Semi-supervised Domain Adaptation” has been accepted for publication in the Transactions on ACM Multimedia Computing Communications and Applications. Con~ Jinfeng!
