@@ -32,7 +32,7 @@
 * (2021-08-17) One paper entitled "Learning Representation on Optimized High-Order Manifold for 3D Shape Recognition" has been accepted for publicatin in IEEE Trans. Multimedia. Con~ Xueqi!
 * (2021-08-02)[课题组同学一项目获第七届山东省“互联网+”大学生创新创业大赛金奖](http://news.upc.edu.cn/info/1432/105582.htm)，祝贺潘婷等同学！
 * (2021-08-02)傅司超硕士学位论文获评山东省人工智能学会优秀硕士学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/1763891.html)），祝贺司超！
-* (2021-08-02)课题组一项目获山东省人工智能学会科学技术奖（自然奖）一等奖！（[公式中](https://www.sdaai.org.cn/newsinfo/1763852.html)）
+* (2021-08-02)课题组一项目获山东省人工智能学会科学技术奖（自然奖）一等奖！（[公示中](https://www.sdaai.org.cn/newsinfo/1763852.html)）
 * (2021-07-16) One paper entitled "Example-Feature Graph Convolutional Networks for Semi-supervised Classification" has been accepted for publication in Neurocomputing. Con~ Sichao!
 * (2021-06-15) One paper entitled "Leveraging GANs via Non-local Features" has been accepted on ICANN2021. Con~ Xuyang!
 * (2021-04-30) One paper entitled "BESA: BERT-based Simulated Annealing for Adversarial Text Attacks" has been accepted on IJCAI2021. Con~ Xinghao!
@@ -190,8 +190,9 @@
 |年级|姓名|
 |:----|:----|
 |博士|[庞健]()(2021级)、[昝畅通]()(2020级)、[许睿]()(2019级)|
-|硕士2022级|[于浩然]()(19本研)、[高旭茹]()(19本研)、[孙浩璐]()(19本研)|
-|硕士2021级|[陈轶平]()、[齐宇鹏]()、[韩雯]()、[王进]()、[贾普华]()(18本研)、[李晨]()(18本研)、[李昂]()(18本研)|
+|硕士2023级|[于浩然]()(19本研)、[高旭茹]()(19本研)、[孙浩璐]()(19本研)|
+|硕士2022级|[贾普华]()(18本研)、[李晨]()(18本研)、[李昂]()(18本研)|
+|硕士2021级|[陈轶平]()、[齐宇鹏]()、[韩雯]()、[王进]()|
 |硕士2020级|[潘婷]()、[刘东凯]()、[许仁杰]()、[蔡玉颖]()、[潘丽丽]()、[李家兴]()、[李雪飞]()|
 |硕士2019级|[彭旭阳]()、[王飞]()、[吕云雪]()、[刘瑶]()|
 |硕士2018级|[卜祥蕊\#]()|
@@ -320,7 +321,7 @@
 1. 学术学位博士研究生（081100控制科学与工程）-控制科学与工程学院；
 2. 专业学位博士研究生（085802动力工程）-控制科学与工程学院；
 
-我能够招收如下类型硕士研究生（**我更倾向于招收学术型硕士研究生，直博生优先**）：([2022级硕士研究方向及人数]())  
+我能够招收如下类型硕士研究生（**我更倾向于招收学术型硕士研究生，直博生优先**）：([2023级硕士研究方向及人数]())  
 1. 学术学位硕士研究生（081100控制科学与工程）-控制科学与工程学院；  
 2. 专业学位硕士研究生（0854电子信息：06控制工程、10人工智能）-控制科学与工程学院； 
 
