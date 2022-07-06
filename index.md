@@ -46,23 +46,6 @@
 * (2021-02-01) 祝贺傅司超获2020年度中国电子学会优秀硕士学位论文（公示中）！
 * (2021-01-25) One paper entitled "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks" has been accepted for publication in Information Sciences. Con~ Sichao!
 * (2021-01-24) 祝贺昝畅通获2020年山东省大学生创新方法应用大赛二等奖，单芮获2020年山东省大学生创新方法应用大赛三等奖！
-* (2020-12-25) 祝贺王飞获2020年山东省大学生科技创新大赛三等奖！
-* (2020-12-10) 祝贺马学琦获2020年度山东省人工智能学会优秀学位论文！[公示中](https://www.sdaai.org.cn/newsinfo/953876.html)
-* (2020-12-09) One paper entitled "Local Structure Alignment Guided Domain Adaptation with Few Source Samples" has been accepted in ACM MM Asia2020 as a special session paper. Con~ Yuying!
-* (2020-12-02) One paper entitled "Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search" has been accepted in AAAI 2021. Con~ Xinghao!
-* (2020-11-27) [祝贺李金凤获山东省研究生优秀成果奖评选推荐！](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
-* (2020-11-19) 祝贺刘伟锋获评校首届研究生十佳导师！
-* (2020-11-18) [祝贺马学琦获山东省优秀硕士学位论文推荐！](http://gs.upc.edu.cn/2020/1118/c14671a322256/page.htm)
-* (2020-10-22) One paper entitled "Targeted Attention Attack on Deep Learning Models in Road Sign Recognition" has been accepted for publication in the IEEE Internet of Things. Con~ Xinghao!
-* (2020-10-13) [祝贺李金凤获研究生国家奖学金学院推荐！](http://ocean.upc.edu.cn/2020/1012/c15079a318375/page.htm)
-* (2020-09-11) One paper entitled "Urban Perception: Sensing Cities via a Deep Interactive Multi-task Learning Framework" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications.
-* (2020-09-10) Our paper entitled "Unified Cross-domain Classification via Geometric and Statistical Adaptations" has been accepted for publication in Pattern Recognition. Con~ Jinfeng!
-* (2020-09-05) [祝贺傅司超获校级优秀硕士学位论文！](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
-* (2020-08-10) Our paper entitled "Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition" has been accepted for publication in the IEEE Transactions on Knowledge and Data Engineering. Con~ Xinghao!
-* (2020-07-28) Our paper entitled "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification" has been accepted for publication in the Transactions on Multimedia Computing Communications and Applications. Con~ Sichao!
-* (2020-01-12) Our paper entitled "Multiview dimension reduction via Hessian multiset canonical correlations" has been recognized as ESI Highly Cited papers!
-* (2020-01-09) [课题组获批一项模式识别国家重点实验室开放课题！](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
-
 
 
 
