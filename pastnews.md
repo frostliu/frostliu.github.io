@@ -1,4 +1,23 @@
 # PastNews
+* (2021-11-02) One paper entitled "DMH-FSL: Dual-Modal Hypergraph for Few-Shot Learning" has been accepted for publication in Neural Processing Letters. Con~ Rui!
+* (2021-10-17) One paper has won the award of the best paper on the 10th International Symposium on Precision Mechanical Measurment. Con~ Yao!
+* (2021-09-16) One paper entitled “Domain-invariant Graph for Adaptive Semi-supervised Domain Adaptation” has been accepted for publication in the Transactions on ACM Multimedia Computing Communications and Applications. Con~ Jinfeng!
+* (2021-08-31) One paper entitled "Interference Distillation for Underwater Fish Recognition" has been accepted on ACPR2021. Con~ Jian!
+* (2021-08-27) One paper entitled "Location Soft-Aggregation Based Band Weighting for Hyperspectral Image Classification" has been accepted for publicaion the IEEE Geoscience and Remote Sensing Letters. Con~ Xuefei! 
+* (2021-08-17) One paper entitled "Learning Representation on Optimized High-Order Manifold for 3D Shape Recognition" has been accepted for publicatin in IEEE Trans. Multimedia. Con~ Xueqi!
+* (2021-08-02)[课题组同学一项目获第七届山东省“互联网+”大学生创新创业大赛金奖](http://news.upc.edu.cn/info/1432/105582.htm)，祝贺潘婷等同学！
+* (2021-08-02)傅司超硕士学位论文获评山东省人工智能学会优秀硕士学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/1763891.html)），祝贺司超！
+* (2021-08-02)课题组一项目获山东省人工智能学会科学技术奖（自然奖）一等奖！（[公示中](https://www.sdaai.org.cn/newsinfo/1763852.html)）
+* (2021-07-16) One paper entitled "Example-Feature Graph Convolutional Networks for Semi-supervised Classification" has been accepted for publication in Neurocomputing. Con~ Sichao!
+* (2021-06-15) One paper entitled "Leveraging GANs via Non-local Features" has been accepted on ICANN2021. Con~ Xuyang!
+* (2021-04-30) One paper entitled "BESA: BERT-based Simulated Annealing for Adversarial Text Attacks" has been accepted on IJCAI2021. Con~ Xinghao!
+*  CFPs: [SPECIAL SESSION ON “New Advances in Intelligent Multimedia Computing ” IEEE SMC2021.](http://frostliu.github.io/SMC2021)
+* (2021-04-15) One paper has been accepted for publication in IET Image Processing. Con~ Changtong!
+* (2021-04-02) Two papers have been accepted on CCC2021. Con~ Yunxue and Jiaxing!
+* (2021-03-06) One paper has been accepted on ICME2021. Con~ Jian！
+* (2021-02-01) 祝贺傅司超获2020年度中国电子学会优秀硕士学位论文（公示中）！
+* (2021-01-25) One paper entitled "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks" has been accepted for publication in Information Sciences. Con~ Sichao!
+* (2021-01-24) 祝贺昝畅通获2020年山东省大学生创新方法应用大赛二等奖，单芮获2020年山东省大学生创新方法应用大赛三等奖！
 * (2020-12-25) 祝贺王飞获2020年山东省大学生科技创新大赛三等奖！
 * (2020-12-10) 祝贺马学琦获2020年度山东省人工智能学会优秀学位论文！[公示中](https://www.sdaai.org.cn/newsinfo/953876.html)
 * (2020-12-09) One paper entitled "Local Structure Alignment Guided Domain Adaptation with Few Source Samples" has been accepted in ACM MM Asia2020 as a special session paper. Con~ Yuying!
