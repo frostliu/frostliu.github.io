@@ -22,6 +22,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2022-09-05) One paper entitled "Virtual Try-On via Matching Relation with Landmark" has been accepted to be published in Lecture Notes in Computer Science (LNCS) proceedings of ICONIP 2022. Con~ Hao!
 * (2022-08-24) One paper entitled "Multi-step-ahead Prediction of Ocean SSTA Based on Hybrid Empirical Mode Decomposition and Gated Recurrent Unit Model" has been accepted for publication in the Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Con~ Xiaoyin!
 * (2022-08-14) One paper entitled "Multi-order Interaction Information Embedding Based Multi-view Fusion Aided Hyperspectral Image Classification" has been accepted for publication in the IEEE Geoscience and Remote Sensing Letters. Con~ Xuefei!
 * (2022-07-06) One paper entitled "hared Dictionary Learning via Coupled Adaptations for Cross-domain Classification" has been accepted for publication in Neural Processing Letters. Con~ Yuying and Jinfeng!
