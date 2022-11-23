@@ -23,6 +23,8 @@
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
 * (2022-10-25) One paper entitled "Generating new paintings by semantic guidance" has been accepted for poster presentation at 29th International Conference on MultiMedia Modeling. Con~ Ting and Fei!
+* (2022-10-19)[祝贺李金凤学位论文获评山东省人工智能学会优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4492346.html)
+* (2022-10-19)[团队一成果获山东省人工智能自然科学一等奖，一参与成果获山东省人工智能科技进步一等奖！](https://www.sdaai.org.cn/newsinfo/4492364.html)
 * (2022-10-13) One paper entitled "On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation" has been accepted for presentation at COLING 2022. Con~ Changtong!
 * (2022-10-12) 祝贺李雪飞、蔡玉颖获得研究生国家奖学金推荐！
 * (2022-09-13) Two papers entitled "EMAS: Efficient Meta Architecture Search for Few-Shot Learning" and "Automated Drawing Psychoanalysis via House-Tree-Person Test" respectively have been accepted for publication in the ICTAI 2022 proceedings and presentation at the conference. Con~ Dongkai and Ting!
