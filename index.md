@@ -50,47 +50,19 @@
 ---
 <span id = "Publications"> </span>
 ## **Selected Publications:**  
-1. X. Yang, **W. Liu**, D. Tao, W. Liu, BESA: BERT-based Simulated Annealing for Adversarial Text Attacks, ***IJCAI2021***, in press
-1. S. Fu, **W. Liu**, K. Zhang, D. Tao and Y. Zhou, Semi-supervised Classification by Graph p-Laplacian Convolutional Networks. ***Information Sciences***, in press 
-1. X. Yang, **W. Liu**, J. Bailey, D. Tao and W. Liu, Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search. ***AAAI2021***, in Press 
-1. X. Yang, **W. Liu**, S. Zhang, W. Liu and D. Tao, Targeted Attention Attack on Deep Learning Models in Road Sign Recognition. ***IEEE Internet of Things***, in press 
-1. X. Yang, **W. Liu** and W. Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
-1. S. Fu, **W. Liu**, Y. Zhou, D. Tao, and C. Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", ***ACM Transactions on Multimedia Computing Communications and Applications***, in press 
-1. **W. Liu**, S. Fu, Y. Zhou, Zh.-J. Zha, and L. Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", ***Neurocomputing***, in press.
-1. X. Yang, **W. Liu**, W. Liu, and D. Tao, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2019.2958342.
-2021. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 10.1016/j.patcog.2020.107658
-2020. J. Li, **W. Liu**, Y. Zhou, D. Tao, and L. Nie, "Domain Adaptation with Few Labeled Source Samples by Graph Regularization," ***Neural Processing Letters***, 51(1): 23-39, 2020. 10.1007/s11063-019-10075-z.
-2020. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 514: 484-498,2020. 10.1016/j.ins.2019.11.019.
-2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
-2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
+1. X. Yang, **W. Liu** and W. Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 34(6):2948-2961, 2022.
+1. X. Yang, **W. Liu**, W. Liu, and D. Tao, "A Survey on Canonical Correlation Analysis", ***IEEE Transactions on Knowledge and Data Engineering***, 33(6):2349-2368, 2021.
+2021. **Weifeng Liu**, Jinfeng Li, Baodi Liu, Weili Guan, Yicong Zhou and Changsheng Xu, Unified Cross-domain Classification via Geometrical and Statistical Adaptations. ***Pattern Recognition***, 110:107658, 2021
+2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. (**ESI Highly Cited Papers**)
 2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.(**ESI Highly Cited Papers**)
-2018. C. L. P. Chen, X. You, X. Gao, T. Liu, F. Murtagh, and **W. Liu**, "Advances in Data Representation and Learning for Pattern Analysis," ***Neurocomputing***, 348: 1-2, 2019, 10.1016/j.neucom.2018.08.084.(**Editorial**)
-2018. X. Tian, **W. Liu**, and F. Murtagh, "Data Mining in Human Activity Analysis," ***Signal Processing***, 147: 247-248, 2018. (**Editorial**)
 2018. **W. Liu**, X. Yang, D. Tao, J. Cheng, and Y. Tang, "Multiview dimension reduction via Hessian multiset canonical correlations," ***Information Fusion***, 41: 119-128, 2018.(**ESI Highly Cited Papers**)
-2017. X. Yang, **W. Liu**, D. Tao, J. Cheng, "Canonical Correlation Analysis Networks for Two-view Image Recognition", ***Information Sciences***, 385-386: 338-352, 2017.(**ESI Highly Cited Papers**)
-2017. Y. Guo, L. Li, **W. Liu**, J. Cheng, D. Tao, "Multiview Cauchy Estimator Feature Embedding for Depth and Inertial Sensor-Based Human Action Recognition", ***IEEE Trans. on Systems, Man, and Cybernetics: Systems***, 47(4): 617-627, 2017.
 2016. **W. Liu**, Z. Zha, Y. Wang, K. Lu, and D. Tao, "p-Laplacian Regularized Sparse Coding for Human Activity Recognition," ***IEEE Trans. on Industrial Electronics***, 63(8): 5120-5129, 2016.(**ESI Hot Papers,ESI Highly Cited Papers**)
-2016. **W.Liu**, H.Zhang, D.Tao, Y.Wang, K.Lu, “Large-Scale Paralleled Sparse Principal Component Analysis”, ***Multimedia Tools and Applications***, 75(3): 1481-1493, 2016. (**ESI Highly Cited Papers**)
-2015. **W.Liu**, H.Liu, D.Tao, Y.Wang, K.Lu, “Multiview Hessian regularized logistic regression for action recognition”,***Signal Processing***, 110: 101-107, 2015. (**ESI Hot Papers**)
-2014. **W. Liu**, Y. Li, X. Lin, D. Tao, and Y. Wang, "Hessian regularized co-training for social activity recognition," ***PLOS One***, 9(9): e108474, 2014. (**ESI Highly Cited Papers**)
 2014. **W. Liu**, D. Tao, J. Cheng, and Y. Tang, “Multiview Hessian Discriminative Sparse Coding for Image Annotation,” ***Computer Vision and Image Understanding***, 118: 50-60, 2014. (**ESI Highly Cited Papers**)
 2013. **W. Liu** and D. Tao, “Multiview Hessian Regularization for Image Annotation,” ***IEEE Trans. on Image Processing***, 22: 2676-2687, 2013. (**ESI Hot Papers,ESI Highly Cited Papers**)
 2013. D. Tao, L. Jin, **W. Liu**, and X. Li, "Hessian Regularized Support Vector Machines for Mobile Image Annotation on the Cloud". ***IEEE Trans. on Multimedia***, 15(4): 833-844, 2013. (**ESI Highly Cited Papers**)
 
 
-[More...](/publications)
-
-
 [*See Weifeng Liu’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=XHc6D58AAAAJ&hl=en)  
-
-### **专利成果**
-
-1. 一种基于典型相关分析网络的二视角图像识别方法，国家发明专利，ZL201610663936.1，2019.
-2019. 一种基于多视角典型相关分析的人脸识别方法及其系统, 国家发明专利，ZL201610055275.4，2019.
-2018. 一种智能导盲方法，国家发明专利，ZL201610012203.1, 2018.
-2018. 一种智能导盲装置及安装有该装置的导盲杖，国家发明专利，ZL201610010270.X, 2018.
-2018. 一种基于自编码的物体识别方法, 国家发明专利，ZL201610055128.7, 2018.
-2017. 一种基于高阶图结构p-Laplacian稀疏编码的数字图像标记方法，国家发明专利，ZL201510632014.X, 2017.
 
 
 [↑Top](#Top)
@@ -100,12 +72,6 @@
 <span id = "Services"> </span>
 ## **Professional Services:**  
 
-### **Membership:** 
-
-* IEEE senior member, IEEE SMC Society member, [Co-chair of IEEE SMC TC on Cognitive Computing](http://www.ieeesmc.org/technical-activities/human-machine-systems/cognitive-computing), 
-* ACM member, ACM SIGMM member, ACM SIGMM China Chapter member, 
-* APNNS member, 
-* CCF senior member, [CCF Computer Vision Committee member](http://www.ccfcv.org/). 
 
 ### **Journal Editorial Board:** 
 
@@ -113,6 +79,7 @@
 * Lead guest editor for Signal Processing (SI: Big Data Meets Multimedia Analytics)
 * Lead guest editor for Signal Processing (SI: Data Mining in Human Activity Analysis)
 * Lead guest editor for Remote Sensing (SI: Advances in Representation Learning for Remote Sensing Analytics)
+* Lead guest editor for Remote Sensing (SI: Machine Learning and Image Processing for Object Detection)
 * Lead guest editor for Journal of Electrical and Computer Engineering (SI: Advanced Data Representation and Learning in Multimedia Data Analysis)  
 * Guest editor for Neurocomputing (SI: Advances in Data Representation and Learning for Pattern Analysis)
 * Guest editor for IET Computer Vision (SI: Visual Domain Adaptation and Generalization)
