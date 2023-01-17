@@ -22,6 +22,7 @@
 <span id = "News"> </span> 
 ## **News**  
 * 🎈[招收**模式识别与智能系统方向**博士、硕士研究生！欢迎**自动化、电子信息、计算机**等相关专业优秀同学加盟课题组！](#forStudents)
+* (2023-01-17) [祝贺傅司超论文入选中国自动化学会优秀硕士学位论文！](http://www.caa.org.cn/article/192/3362.html)
 * (2022-12-11) [团队1篇论文获山东省人工智能学会年度优秀学术论文奖，2篇论文获山东省人工智能学会年度优秀学术论文提名奖。](https://www.sdaai.org.cn/newsinfo/4771874.html)
 * (2022-11-24) [团队1项成果获中国自动化学会自然科学二等奖](http://www.caa.org.cn/article/192/3206.html)
 * (2022-10-25) One paper entitled "Generating new paintings by semantic guidance" has been accepted for poster presentation at 29th International Conference on MultiMedia Modeling. Con~ Ting and Fei!
@@ -114,6 +115,7 @@
 |:----|:----|
 |山东省优秀硕士学位论文|傅司超(2021)、马学琦(2020)、杨兴浩(2019)|
 |中国电子学会优秀硕士学位论文|傅司超(2020)|
+|中国自动化学会优秀硕士学位论文|傅司超(2023)|
 |山东省人工智能学会优秀硕士学位论文|李金凤（2022）、傅司超（2021）、马学琦(2020)|
 |中国石油大学（华东）优秀硕士论文|傅司超（2020）、马学琦（2019）、杨兴浩（2018）、刘红丽（2015）、宋彩风（2013）|
 |中国石油大学（华东）“学术十杰”|马学琦（2018）|
